@@ -1,0 +1,210 @@
+{
+  "n_train": 475,
+  "n_test": 257,
+  "n_photographers_test": 21,
+  "classes": [
+    "Perodua Axia",
+    "Perodua Bezza",
+    "Perodua Myvi",
+    "Proton Iriz",
+    "Proton Persona",
+    "Proton Saga",
+    "Proton X70"
+  ],
+  "per_class_test": {
+    "Perodua Axia": 3,
+    "Perodua Bezza": 4,
+    "Perodua Myvi": 84,
+    "Proton Iriz": 20,
+    "Proton Persona": 39,
+    "Proton Saga": 105,
+    "Proton X70": 2
+  },
+  "clean": {
+    "zero_shot_top1": 0.6926070038910506,
+    "zero_shot_top3": 0.9377431906614786,
+    "probe_top1": 0.7470817120622568,
+    "probe_top3": 0.9260700389105059
+  },
+  "confusion_probe": [
+    [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      52,
+      27,
+      2,
+      2,
+      0
+    ],
+    [
+      0,
+      9,
+      1,
+      9,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      4,
+      31,
+      2,
+      0
+    ],
+    [
+      0,
+      2,
+      1,
+      2,
+      9,
+      91,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  ],
+  "degraded": {
+    "blur_r2": {
+      "zero_shot_top1": 0.7159533073929961,
+      "probe_top1": 0.7431906614785992,
+      "probe_top3": 0.8988326848249028
+    },
+    "blur_r4": {
+      "zero_shot_top1": 0.5875486381322957,
+      "probe_top1": 0.7315175097276264,
+      "probe_top3": 0.8832684824902723
+    },
+    "dark_0.35": {
+      "zero_shot_top1": 0.5875486381322957,
+      "probe_top1": 0.7003891050583657,
+      "probe_top3": 0.8754863813229572
+    },
+    "lowres_64px": {
+      "zero_shot_top1": 0.6614785992217899,
+      "probe_top1": 0.7315175097276264,
+      "probe_top3": 0.8754863813229572
+    },
+    "jpeg_q10": {
+      "zero_shot_top1": 0.6770428015564203,
+      "probe_top1": 0.7509727626459144,
+      "probe_top3": 0.8871595330739299
+    },
+    "dashcam_combo": {
+      "zero_shot_top1": 0.603112840466926,
+      "probe_top1": 0.6614785992217899,
+      "probe_top3": 0.8599221789883269
+    }
+  },
+  "refusal_clean": [
+    {
+      "threshold": 0.0,
+      "coverage": 1.0,
+      "accuracy_when_answering": 0.7470817120622568
+    },
+    {
+      "threshold": 0.3,
+      "coverage": 0.9883268482490273,
+      "accuracy_when_answering": 0.7519685039370079
+    },
+    {
+      "threshold": 0.4,
+      "coverage": 0.9571984435797666,
+      "accuracy_when_answering": 0.7642276422764228
+    },
+    {
+      "threshold": 0.5,
+      "coverage": 0.8871595330739299,
+      "accuracy_when_answering": 0.7894736842105263
+    },
+    {
+      "threshold": 0.6,
+      "coverage": 0.77431906614786,
+      "accuracy_when_answering": 0.8291457286432161
+    },
+    {
+      "threshold": 0.7,
+      "coverage": 0.6498054474708171,
+      "accuracy_when_answering": 0.8502994011976048
+    },
+    {
+      "threshold": 0.8,
+      "coverage": 0.5175097276264592,
+      "accuracy_when_answering": 0.8872180451127819
+    },
+    {
+      "threshold": 0.9,
+      "coverage": 0.28793774319066145,
+      "accuracy_when_answering": 0.918918918918919
+    }
+  ],
+  "refusal_dashcam_combo": [
+    {
+      "threshold": 0.0,
+      "coverage": 1.0,
+      "accuracy_when_answering": 0.6614785992217899
+    },
+    {
+      "threshold": 0.3,
+      "coverage": 0.953307392996109,
+      "accuracy_when_answering": 0.6857142857142857
+    },
+    {
+      "threshold": 0.4,
+      "coverage": 0.7937743190661478,
+      "accuracy_when_answering": 0.7549019607843137
+    },
+    {
+      "threshold": 0.5,
+      "coverage": 0.6186770428015564,
+      "accuracy_when_answering": 0.8301886792452831
+    },
+    {
+      "threshold": 0.6,
+      "coverage": 0.48249027237354086,
+      "accuracy_when_answering": 0.8629032258064516
+    },
+    {
+      "threshold": 0.7,
+      "coverage": 0.3657587548638132,
+      "accuracy_when_answering": 0.8829787234042553
+    },
+    {
+      "threshold": 0.8,
+      "coverage": 0.20233463035019456,
+      "accuracy_when_answering": 0.9615384615384616
+    },
+    {
+      "threshold": 0.9,
+      "coverage": 0.058365758754863814,
+      "accuracy_when_answering": 0.9333333333333333
+    }
+  ]
+}

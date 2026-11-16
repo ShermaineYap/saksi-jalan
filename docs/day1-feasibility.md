@@ -53,3 +53,21 @@ The probe barely drops. Zero-shot falls to 36% in the dark and dashcam-like cond
 - Photograph real cars in car parks and on streets (plates blurred) to add photographers, angles and lighting, and to build a real-world test set.
 - Add Proton Saga, X70, Persona and Iriz (download in progress, slowed by Commons rate limits).
 - Repeat the study with more test photos to tighten the numbers.
+
+---
+
+## Day 1, evening: all seven models, two sources
+
+Added Proton Saga, X70, Persona and Iriz, plus Flickr photos found through [Openverse](https://openverse.org) (`scripts/collect_openverse.py`; CC BY, CC BY-SA, CC0 and public domain only). After the exterior filter and near-duplicate removal: 732 photos, 475 train and 257 test, with 49 and 21 photographers.
+
+| Model | Top-1 | Top-3 |
+|---|---|---|
+| CLIP zero-shot | 69% | 94% |
+| Linear probe | 75% | 93% |
+
+Answering only when confidence ≥ 0.8: 52% of photos answered, 89% of those correct.
+
+**What this run shows, honestly:**
+- **The test set is lopsided.** Splitting by photographer put almost all Axia, Bezza and X70 photos in training, because one Commons photographer took most of them. The test set has 84 Myvi and 105 Saga but only 3 Axia, 4 Bezza and 2 X70. The overall 75% mostly measures Myvi and Saga.
+- **New confusion: Myvi vs Iriz.** 27 of 84 test Myvis were called Iriz. Both are small hatchbacks, and Flickr has many more Iriz photos from motor shows than from streets.
+- **Openly licensed data runs out for newer Perodua models.** Flickr had only 22 Axia and 10 Bezza photos. Next source: Roboflow Universe datasets of real Malaysian street and car-park photos (CC BY 4.0 where marked).

@@ -57,11 +57,20 @@ E = embed_imgs(imgs)
 # ---------- 1. exterior filter ----------
 scene = ["a photo of the outside of a car on a road or parking lot", "a photo of a car interior or dashboard",
          "a photo of a car engine", "a close-up photo of a car logo or badge", "a photo of a car wheel close-up",
-         "a photo of a crowd at a motor show", "a photo of a car seat"]
+         "a photo of a crowd at a motor show", "a photo of a car seat",
+         "a photo with no car in it", "a toy model car or a drawing of a car"]
 S = embed_text(scene)
 is_ext = (E @ S.T).argmax(1) == 0
 print("exterior kept", int(is_ext.sum()), "of", len(rows))
 idx = np.where(is_ext)[0]
+# drop near-duplicates (same photo hosted on both Commons and Flickr, or burst shots)
+keep_idx, Ek = [], []
+for i in idx:
+    if Ek and float(np.max(np.stack(Ek) @ E[i])) > 0.97:
+        continue
+    keep_idx.append(i); Ek.append(E[i])
+print("after near-duplicate removal", len(keep_idx), "of", len(idx))
+idx = np.array(keep_idx)
 y_names = sorted(NAMES)
 y = np.array([y_names.index(rows[i]["class"]) for i in idx])
 groups = np.array([rows[i]["author"] or rows[i]["title"] for i in idx])
@@ -87,7 +96,7 @@ clf = LogisticRegression(max_iter=3000, C=10.0, class_weight="balanced").fit(X[t
 def topk(P, yt, k):
     return float(np.mean([yt[i] in np.argsort(-P[i])[:k] for i in range(len(yt))]))
 
-res = {"n_train": int(len(tr)), "n_test": int(len(te)), "classes": [NAMES[c] for c in y_names],
+res = {"n_train": int(len(tr)), "n_test": int(len(te)), "n_photographers_test": int(len(set(groups[te]))), "classes": [NAMES[c] for c in y_names],
        "per_class_test": {NAMES[c]: int((y[te] == j).sum()) for j, c in enumerate(y_names)}}
 Pzs, Plp = zs_probs(X[te]), clf.predict_proba(X[te])
 res["clean"] = {"zero_shot_top1": topk(Pzs, y[te], 1), "zero_shot_top3": topk(Pzs, y[te], 3),
