@@ -2,7 +2,7 @@
 
 **Track:** Community Impact
 **Tagline:** Turns a dashcam frame or phone photo into a police-ready vehicle description in BM and English, and says "not sure" instead of guessing.
-**Links:** live app https://huggingface.co/spaces/Shermaine526/saksi-jalan · code https://github.com/ShermaineYap/saksi-jalan · video [VIDEO LINK]
+**Links:** live app https://huggingface.co/spaces/Shermaine526/saksi-jalan · code https://github.com/ShermaineYap/saksi-jalan · video https://youtu.be/czayOeo1dZo
 
 ---
 

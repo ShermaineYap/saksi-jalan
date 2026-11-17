@@ -8,6 +8,8 @@ Entry for the **STEM2Connect AI Hackathon 2026**, Community Impact track.
 
 **▶ Try it: https://huggingface.co/spaces/Shermaine526/saksi-jalan** (runs entirely in your browser; your photo is never uploaded)
 
+**🎬 Demo video (3 min): https://youtu.be/czayOeo1dZo**
+
 ## The problem
 
 Malaysia recorded about 6,500 road deaths in 2025, around 18 a day, and about two-thirds of them were motorcyclists and pillion riders ([The Star, 27 Jan 2026](https://www.thestar.com.my/news/nation/2026/01/27/motorcyclists-make-up-two-thirds-of-road-deaths-in-2025-says-loke)). When a car drives off after a crash, witnesses often cannot name it. In an April 2026 hit-and-run in Ampang, police could only describe a car of unidentified make and registration ([Malay Mail](https://www.malaymail.com/amp/news/malaysia/2026/04/15/ampang-cops-hunt-driver-in-taman-muda-hit-and-run-that-left-pedestrian-seriously-injured/216349)).
