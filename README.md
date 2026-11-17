@@ -6,6 +6,8 @@ Saksi Jalan turns a dashcam frame or phone photo into a police-ready vehicle des
 
 Entry for the **STEM2Connect AI Hackathon 2026**, Community Impact track.
 
+**▶ Try it: https://huggingface.co/spaces/Shermaine526/saksi-jalan** (runs entirely in your browser; your photo is never uploaded)
+
 ## The problem
 
 Malaysia recorded about 6,500 road deaths in 2025, around 18 a day, and about two-thirds of them were motorcyclists and pillion riders ([The Star, 27 Jan 2026](https://www.thestar.com.my/news/nation/2026/01/27/motorcyclists-make-up-two-thirds-of-road-deaths-in-2025-says-loke)). When a car drives off after a crash, witnesses often cannot name it. In an April 2026 hit-and-run in Ampang, police could only describe a car of unidentified make and registration ([Malay Mail](https://www.malaymail.com/amp/news/malaysia/2026/04/15/ampang-cops-hunt-driver-in-taman-muda-hit-and-run-that-left-pedestrian-seriously-injured/216349)).
@@ -49,6 +51,12 @@ Full details, method and limitations: [`docs/results.md`](docs/results.md).
 
 ## How to run
 
+**Live:** https://huggingface.co/spaces/Shermaine526/saksi-jalan. The `web/` folder is a static page that runs both models in the browser with [onnxruntime-web](https://onnxruntime.ai). The first visit downloads about 130 MB of models, which the browser then caches. Rebuild the model files with `scripts/export_web_models.py`.
+
+Weight-only int8 compression keeps the browser model almost identical to the Python one (cosine similarity 0.9996); full int8 quantisation would have cost about 6 points of accuracy, so I didn't use it. `scripts/test_web.py` runs the page in headless Chrome on all samples.
+
+**Python reference app (Gradio):**
+
 ```bash
 cd app
 pip install -r requirements.txt gradio
@@ -61,7 +69,8 @@ To reproduce the study, collect the data with `scripts/collect_commons.py`, `scr
 ## Data and credits
 
 - **Photos:** [Wikimedia Commons](https://commons.wikimedia.org/) and Flickr via [Openverse](https://openverse.org) (CC0, public domain, CC BY, CC BY-SA), plus these CC BY 4.0 [Roboflow Universe](https://universe.roboflow.com) datasets: `car-model-gbo55/perodua-axia`, `axia-detection/perodua-axia-detection`, `swinburne-crrcc/bezza`, `trainlabelstxt/trainingmyvi`, `axia-detection/car-model-validation`. Author, licence and source for every photo: `data/attribution.csv`. Images aren't redistributed in this repo, except the app's sample photos (credits in `app/examples/CREDITS.md`).
-- **Models:** [OpenCLIP](https://github.com/mlfoundations/open_clip) (MIT) with Apple's DFN-2B ViT-B/16 weights; [torchvision](https://github.com/pytorch/vision) Faster R-CNN (BSD-3).
+- **Models:** [OpenCLIP](https://github.com/mlfoundations/open_clip) (MIT) with Apple's DFN-2B ViT-B/16 weights; [torchvision](https://github.com/pytorch/vision) Faster R-CNN (BSD-3) in the Python app; DETR ResNet-50 (Facebook AI, Apache-2.0; ONNX export by [Xenova](https://huggingface.co/Xenova/detr-resnet-50)) in the browser app.
+- **Browser runtime:** [onnxruntime-web](https://github.com/microsoft/onnxruntime) (MIT).
 - **Libraries:** PyTorch, scikit-learn, Gradio, Pillow, NumPy.
 - **Road-safety figures:** The Star and Malay Mail, linked above.
 

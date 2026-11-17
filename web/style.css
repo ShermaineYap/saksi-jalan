@@ -1,0 +1,137 @@
+:root {
+  --sign-blue: #1d4f9e;
+  --sign-white: #ffffff;
+  --kerb: #f2c230;
+  --asphalt: #2f3237;
+  --line: #d7dbe0;
+  --paper: #f6f7f4;
+  --ink: #23262b;
+  --muted: #5b6168;
+  --ok: #1f7a4d;
+  --warn: #9a5b00;
+  --radius-sign: 10px;
+  --radius: 6px;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 400 1.0625rem/1.55 "Atkinson Hyperlegible", system-ui, sans-serif;
+}
+h1, h2, h3, .sign-route, .num, .btn { font-family: "Overpass", "Atkinson Hyperlegible", sans-serif; }
+
+/* The road sign: the one loud element */
+.sign { padding: 1rem 1rem 0; }
+.sign-inner {
+  max-width: 44rem; margin: 0 auto;
+  display: flex; align-items: center; gap: 1rem;
+  background: var(--sign-blue); color: var(--sign-white);
+  border: 4px solid var(--sign-white);
+  outline: 2px solid var(--sign-blue);
+  border-radius: var(--radius-sign);
+  padding: 1rem 1.25rem;
+}
+.sign-route {
+  margin: 0; flex: none;
+  width: 3.25rem; height: 3.25rem; display: grid; place-items: center;
+  background: var(--kerb); color: var(--asphalt);
+  border-radius: 50% 50% 45% 45% / 40% 40% 60% 60%;
+  font-weight: 800; font-size: 1.25rem; letter-spacing: .02em;
+}
+h1 { margin: 0; font-weight: 800; font-size: clamp(2rem, 7vw, 2.75rem); line-height: 1.05; letter-spacing: -.01em; }
+.sign-sub { margin: .25rem 0 0; font-size: 1rem; opacity: .92; }
+
+main { max-width: 44rem; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
+.lede { font-size: 1.1875rem; margin: .5rem 0 .75rem; max-width: 38em; }
+.privacy { margin: 0 0 1.5rem; color: var(--muted); font-size: .9375rem; }
+
+.step {
+  background: var(--sign-white);
+  border: 1px solid var(--line);
+  border-left: 6px solid var(--line);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem 1.25rem;
+  margin: 0 0 1rem;
+}
+.step.active { border-left-color: var(--kerb); }
+h2 { font-weight: 800; font-size: 1.375rem; margin: 0 0 .75rem; display: flex; align-items: center; gap: .6rem; }
+.num {
+  display: inline-grid; place-items: center; flex: none;
+  width: 1.9rem; height: 1.9rem; border-radius: 4px;
+  background: var(--sign-blue); color: var(--sign-white);
+  font-size: 1.05rem; font-weight: 800;
+}
+.hint { color: var(--muted); font-size: .9375rem; margin: .75rem 0 .5rem; }
+
+.drop {
+  display: grid; place-items: center; gap: .2rem; text-align: center;
+  padding: 1.75rem 1rem; border: 2px dashed #9aa3ad; border-radius: var(--radius);
+  cursor: pointer; background: #fbfbf9;
+}
+.drop:hover, .drop.over { border-color: var(--sign-blue); background: #f1f5fb; }
+.drop:focus-within { outline: 3px solid var(--kerb); outline-offset: 2px; }
+.drop input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.drop-main { font-weight: 700; color: var(--sign-blue); font-size: 1.0625rem; }
+.drop-sub { color: var(--muted); font-size: .875rem; }
+
+.samples { display: grid; grid-template-columns: repeat(auto-fill, minmax(5.5rem, 1fr)); gap: .5rem; }
+.samples button {
+  padding: 0; border: 2px solid transparent; border-radius: 4px; background: none; cursor: pointer;
+  aspect-ratio: 4 / 3; overflow: hidden;
+}
+.samples button:hover { border-color: var(--sign-blue); }
+.samples button:focus-visible { outline: 3px solid var(--kerb); outline-offset: 1px; }
+.samples img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+.status { margin: 0 0 .5rem; color: var(--muted); }
+.progress { height: .5rem; background: #e8ebef; border-radius: 4px; overflow: hidden; margin-bottom: .75rem; }
+.bar { height: 100%; width: 0; background: var(--sign-blue); transition: width .2s; }
+.stage canvas { width: 100%; height: auto; display: block; border-radius: 4px; background: #e8ebef; cursor: pointer; }
+
+.verdict { margin-top: 1rem; }
+.verdict h3 { font-size: 1.375rem; font-weight: 800; margin: 0 0 .15rem; line-height: 1.2; }
+.verdict .ms { margin: 0 0 .75rem; color: var(--muted); font-style: italic; }
+.verdict.sure h3 { color: var(--ok); }
+.verdict.unsure h3 { color: var(--warn); }
+.verdict.none h3 { color: var(--ink); }
+.verdict .why { margin: 0 0 .75rem; }
+.bars { list-style: none; margin: 0; padding: 0; display: grid; gap: .4rem; }
+.bars li { display: grid; grid-template-columns: 9.5rem 1fr 3rem; align-items: center; gap: .5rem; font-size: .9375rem; }
+.bars .track { display: block; height: .65rem; background: #e8ebef; border-radius: 3px; overflow: hidden; }
+.bars .fill { display: block; height: 100%; background: var(--sign-blue); }
+.bars li:first-child .fill { background: var(--asphalt); }
+.bars .pct { text-align: right; font-variant-numeric: tabular-nums; }
+.note { margin: .75rem 0 0; padding: .5rem .75rem; background: #fff7df; border-left: 4px solid var(--kerb); font-size: .9375rem; }
+
+.form { display: grid; gap: .75rem; }
+.form label { display: grid; gap: .25rem; font-weight: 700; font-size: .9375rem; }
+.form .lab span { font-weight: 400; color: var(--muted); }
+.form input {
+  font: inherit; padding: .6rem .7rem; border: 1px solid #aab2bb; border-radius: 4px; background: #fff; color: var(--ink);
+}
+.form input:focus { outline: 3px solid var(--kerb); outline-offset: 1px; border-color: var(--sign-blue); }
+.btn {
+  justify-self: start; font-weight: 800; font-size: 1.0625rem;
+  background: var(--sign-blue); color: #fff; border: 0; border-radius: 4px; padding: .7rem 1.2rem; cursor: pointer;
+}
+.btn:hover { background: #163f80; }
+.btn:focus-visible, .copy:focus-visible { outline: 3px solid var(--kerb); outline-offset: 2px; }
+
+.out { display: grid; gap: .75rem; margin-top: 1rem; }
+.paper { border: 1px solid var(--line); border-radius: 4px; padding: .75rem 1rem; background: #fdfdfb; }
+.paper-head { display: flex; justify-content: space-between; align-items: center; }
+.paper h3 { margin: 0; font-size: 1.0625rem; font-weight: 800; }
+.paper p { white-space: pre-wrap; margin: .5rem 0 0; }
+.copy { font: inherit; font-size: .875rem; border: 1px solid #aab2bb; background: #fff; border-radius: 4px; padding: .25rem .7rem; cursor: pointer; }
+
+.about { margin-top: 2rem; color: var(--muted); font-size: .9375rem; }
+.about h2 { color: var(--ink); font-size: 1.125rem; }
+.about a { color: var(--sign-blue); }
+
+@media (max-width: 30rem) {
+  .bars li { grid-template-columns: 7.5rem 1fr 2.75rem; }
+  .sign-inner { padding: .85rem 1rem; }
+}
+@media (prefers-reduced-motion: reduce) { .bar { transition: none; } }

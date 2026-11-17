@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Saksi Jalan: road witness</title>
+<meta name="description" content="Turn a dashcam frame or phone photo into a vehicle description for a police report, in Bahasa Malaysia and English. Runs on your device.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Overpass:wght@600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="sign" role="banner">
+  <div class="sign-inner">
+    <p class="sign-route" aria-hidden="true">SJ</p>
+    <div>
+      <h1>Saksi Jalan</h1>
+      <p class="sign-sub">Your road witness, in <span lang="ms">Bahasa Malaysia</span> and English</p>
+    </div>
+  </div>
+</header>
+
+<main>
+  <p class="lede">Got a dashcam frame or a photo of a car that drove off? Saksi Jalan suggests its model and colour, and drafts a witness statement in Bahasa Malaysia and English for your police report.</p>
+  <p class="privacy">🔒 Everything runs on your device. Your photo is never uploaded. No number-plate reading, no owner lookup.</p>
+
+  <section class="step" id="step-photo" aria-labelledby="h-photo">
+    <h2 id="h-photo"><span class="num">1</span> Add a photo</h2>
+    <label class="drop" id="drop">
+      <input type="file" id="file" accept="image/*">
+      <span class="drop-main">Choose a photo or dashcam frame</span>
+      <span class="drop-sub">or drop it here</span>
+    </label>
+    <p class="hint">Or try a sample:</p>
+    <div class="samples" id="samples"></div>
+  </section>
+
+  <section class="step" id="step-car" aria-labelledby="h-car" hidden>
+    <h2 id="h-car"><span class="num">2</span> Check the car</h2>
+    <p class="status" id="status" role="status" aria-live="polite"></p>
+    <div class="progress" id="progress" hidden><div class="bar" id="bar"></div></div>
+    <div class="stage" id="stage"><canvas id="canvas" aria-label="Your photo, with each car found outlined"></canvas></div>
+    <p class="hint" id="pick-hint" hidden>Several cars found. Tap a box to describe a different car.</p>
+    <div class="verdict" id="verdict" hidden></div>
+  </section>
+
+  <section class="step" id="step-statement" aria-labelledby="h-st" hidden>
+    <h2 id="h-st"><span class="num">3</span> Write the statement</h2>
+    <p class="hint">Fill in what you know. Anything left blank stays blank: nothing is made up.</p>
+    <form id="form" class="form">
+      <label><span class="lab">When <span lang="ms">/ Bila</span></span><input id="f-when" type="text"></label>
+      <label><span class="lab">Where <span lang="ms">/ Di mana</span></span><input id="f-where" type="text" placeholder="e.g. Jalan Ampang, near the Taman Muda crossing"></label>
+      <label><span class="lab">Plate characters you could read <span lang="ms">/ Nombor plat</span></span><input id="f-plate" type="text" placeholder="e.g. WA 1" autocapitalize="characters"></label>
+      <label><span class="lab">Which way it went <span lang="ms">/ Arah</span></span><input id="f-dir" type="text" placeholder="e.g. towards Cheras"></label>
+      <label><span class="lab">Anything else <span lang="ms">/ Lain-lain</span></span><input id="f-extra" type="text" placeholder="e.g. dent on the rear bumper"></label>
+      <button type="submit" class="btn">Write statement</button>
+    </form>
+    <div class="out" id="out" hidden>
+      <article class="paper">
+        <div class="paper-head"><h3>English</h3><button class="copy" data-target="en">Copy</button></div>
+        <p id="en"></p>
+      </article>
+      <article class="paper" lang="ms">
+        <div class="paper-head"><h3>Bahasa Malaysia</h3><button class="copy" data-target="ms">Salin</button></div>
+        <p id="ms"></p>
+      </article>
+    </div>
+  </section>
+
+  <section class="about" aria-labelledby="h-about">
+    <h2 id="h-about">How well does it work?</h2>
+    <p>It knows six common cars: Perodua Axia, Bezza and Myvi; Proton Iriz, Persona and Saga. In tests on photographers it never trained on, its first guess was right 74% of the time and the right answer was in its top 3 95% of the time. It names a car only when it is at least 70% sure; at that level it was right 94% of the time.</p>
+    <p>Weak spots: the newest Myvi, older-looking Sagas, and cars that aren't one of the six, which it may confuse with the closest match. It is an aid for your statement, not evidence.</p>
+    <p>Built for the STEM2Connect AI Hackathon 2026. Read the <a href="https://github.com/ShermaineYap/saksi-jalan">source code, method and full results</a>, and the <a href="https://github.com/ShermaineYap/saksi-jalan/blob/main/app/examples/CREDITS.md">sample photo credits</a>.</p>
+  </section>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.31.1/dist/ort.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

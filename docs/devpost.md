@@ -2,7 +2,7 @@
 
 **Track:** Community Impact
 **Tagline:** Turns a dashcam frame or phone photo into a police-ready vehicle description in BM and English, and says "not sure" instead of guessing.
-**Links:** live app [LIVE LINK] · code https://github.com/ShermaineYap/saksi-jalan · video [VIDEO LINK]
+**Links:** live app https://huggingface.co/spaces/Shermaine526/saksi-jalan · code https://github.com/ShermaineYap/saksi-jalan · video [VIDEO LINK]
 
 ---
 
@@ -20,11 +20,11 @@ Most Malaysians can't tell a Myvi from an Axia from a Bezza in a blurry frame, a
 4. **Say "not sure" when it should.** Below 70% confidence it won't name a model; it shows the top 3 instead.
 5. **Write the statement.** Add the time, place and any plate characters you could read, and it drafts a witness statement in **Bahasa Malaysia and English**. Blanks stay blank: nothing is invented.
 
-Privacy by design: photos are processed in memory and never stored; it doesn't read plates or look up owners; the statement says it's an aid, not proof.
+Privacy by design: everything runs on your own device and the photo is never uploaded; it doesn't read plates or look up owners; the statement says it's an aid, not proof.
 
 ## How it uses AI
 
-- **Detection:** a pretrained Faster R-CNN (torchvision, COCO) finds the cars.
+- **Detection:** a pretrained DETR detector (COCO) finds the cars.
 - **Recognition:** OpenCLIP ViT-B/16 (DFN-2B weights) turns each car into image features, and a classifier **I trained** on 1,301 photos of Malaysian cars picks the model.
 - **Calibrated refusal:** the 70% threshold was chosen from a measured accuracy-versus-coverage curve, so "not sure" is a measured decision, not a guess.
 - **Data cleaning with AI:** CLIP zero-shot checks flagged buses, close-ups and aerial shots in the training data, and I reviewed every flag by eye.
@@ -35,7 +35,7 @@ Privacy by design: photos are processed in memory and never stored; it doesn't r
 
 - **Data:** about 2,400 openly licensed photos from Wikimedia Commons, Flickr (via Openverse) and CC BY 4.0 Roboflow Universe datasets, with author and licence recorded for every photo.
 - **Honest testing:** 5-fold cross-validation **grouped by photographer or dataset**, so the model is always tested on photographers it never saw, plus a 30-photo held-out dataset never used in training.
-- **App:** Gradio on Hugging Face Spaces, with unit tests for the colour, decision and statement logic.
+- **App:** a static web page that runs both models **in your browser** (onnxruntime-web), so photos never leave the phone. The image model is compressed from 345 MB to 89 MB with weight-only int8, keeping it nearly identical to the original (cosine similarity 0.9996). I first tried full int8 quantisation, which cost 6 points of accuracy, so I measured and switched. A Python/Gradio version of the same pipeline has unit tests for the colour, decision and statement logic.
 
 ### Results
 
@@ -66,4 +66,4 @@ At the 70% threshold it answers 56% of photos and is right on 94% of them; on da
 
 ## Built with
 
-python · pytorch · open-clip · scikit-learn · torchvision · gradio · hugging-face-spaces · wikimedia-commons · openverse · roboflow
+python · pytorch · open-clip · scikit-learn · onnx · onnxruntime-web · javascript · gradio · hugging-face-spaces · wikimedia-commons · openverse · roboflow
