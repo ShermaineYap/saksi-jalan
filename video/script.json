@@ -1,0 +1,40 @@
+[
+ {"id": "s01_title", "lines": [
+   ["Saksi Jalan. Your road witness.", "Sahksee Jahlahn. Your road witness."]]},
+ {"id": "s02_problem", "lines": [
+   ["In 2025, about six and a half thousand people died on Malaysian roads: eighteen a day.", "In twenty twenty-five, about six and a half thousand people died on Malaysian roads: eighteen a day."],
+   ["Two out of three were motorcyclists or pillion riders.", "Two out of three were motorcyclists or pillion riders."],
+   ["When a car drives off after a crash, the people left behind often can't say what it was.", "When a car drives off after a crash, the people left behind often can't say what it was."],
+   ["After a hit-and-run in Ampang this April, police could only describe a car of unidentified make.", "After a hit and run in Ahm-pahng this April, police could only describe a car of unidentified make."]]},
+ {"id": "s03_why", "lines": [
+   ["I'm Shermaine, a computing student at APU in Malaysia.", "I'm Shermaine, a computing student at A. P. U. in Malaysia."],
+   ["Most of us can't tell a Myvi from an Axia in a blurry dashcam frame, and global car-recognition AI doesn't know these cars at all.", "Most of us can't tell a My-vee from an Ak-see-ah in a blurry dashcam frame, and global car recognition A.I. doesn't know these cars at all."],
+   ["So I built Saksi Jalan. Saksi means witness.", "So I built Sahksee Jahlahn. Sahksee means witness."]]},
+ {"id": "s04_demo_a", "lines": [
+   ["You add a photo or a dashcam frame. Everything runs on your own phone: the photo is never uploaded.", "You add a photo or a dashcam frame. Everything runs on your own phone. The photo is never uploaded."],
+   ["It finds every car, picks the biggest, and names the model and colour: a blue Perodua Bezza.", "It finds every car, picks the biggest, and names the model and colour: a blue Peh-roh-doo-ah Bezzah."]]},
+ {"id": "s04_demo_b", "lines": [
+   ["When the photo is bad, like this one at night, it doesn't guess.", "When the photo is bad, like this one at night, it doesn't guess."],
+   ["Below seventy percent confidence it says not sure, and shows its top three instead.", "Below seventy percent confidence it says not sure, and shows its top three instead."]]},
+ {"id": "s04_demo_c", "lines": [
+   ["Then you add what you know: the time, the place, any plate characters you could read.", "Then you add what you know: the time, the place, any plate characters you could read."],
+   ["It writes the statement in Bahasa Malaysia and English, ready for a police report. Anything left blank stays blank.", "It writes the statement in Bahasa Malaysia and English, ready for a police report. Anything left blank stays blank."]]},
+ {"id": "s05_how", "lines": [
+   ["Under the hood, a DETR detector finds the cars.", "Under the hood, a DETR detector finds the cars."],
+   ["A CLIP vision model turns each car into features, and a classifier I trained on 1,301 openly licensed photos picks one of six common Malaysian cars.", "A CLIP vision model turns each car into features, and a classifier I trained on thirteen hundred and one openly licensed photos picks one of six common Malaysian cars."],
+   ["Both models run in the browser, compressed from 345 to 89 megabytes without losing accuracy.", "Both models run in the browser, compressed from three hundred and forty five to eighty nine megabytes without losing accuracy."]]},
+ {"id": "s06_results", "lines": [
+   ["I tested it on photographers it had never seen. Its first guess is right 74% of the time, against 52% for off-the-shelf CLIP.", "I tested it on photographers it had never seen. Its first guess is right seventy four percent of the time, against fifty two percent for off the shelf CLIP."],
+   ["The right answer is in its top three 95% of the time, and it got all 30 photos from a dataset it never trained on.", "The right answer is in its top three ninety five percent of the time, and it got all thirty photos from a dataset it never trained on."],
+   ["When it's confident enough to answer, it's right 94% of the time. On dark, blurry, dashcam-quality photos it still stays above 90%.", "When it's confident enough to answer, it's right ninety four percent of the time. On dark, blurry, dashcam quality photos, it still stays above ninety percent."]]},
+ {"id": "s07_learning", "lines": [
+   ["My biggest lesson: look at your data.", "My biggest lesson: look at your data."],
+   ["My Iriz class contained 35 Irizar buses, oil slicks and private jets. Cleaning 115 bad photos took Iriz from 38% to 89%.", "My Eye-riz class contained thirty five Ee-ree-zar buses, oil slicks and private jets. Cleaning a hundred and fifteen bad photos took Eye-riz from thirty eight to eighty nine percent."],
+   ["And one photographer took most of my Axia photos, so a random test split would have lied to me. I split by photographer instead.", "And one photographer took most of my Ak-see-ah photos, so a random test split would have lied to me. I split by photographer instead."]]},
+ {"id": "s08_next", "lines": [
+   ["It isn't perfect. The newest Myvi is its weak spot, because open photos of it are rare, and it only knows six models.", "It isn't perfect. The newest My-vee is its weak spot, because open photos of it are rare, and it only knows six models."],
+   ["Next: more models, motorcycles, a WhatsApp bot, and a conversation with traffic police about what a useful statement needs.", "Next: more models, motorcycles, a WhatsApp bot, and a conversation with traffic police about what a useful statement needs."]]},
+ {"id": "s09_end", "lines": [
+   ["Saksi Jalan. Try it at the link below.", "Sahksee Jahlahn. Try it at the link below."],
+   ["Built with Claude as a coding assistant. Every number here comes from my own tests.", "Built with Claude as a coding assistant. Every number here comes from my own tests."]]}
+]
