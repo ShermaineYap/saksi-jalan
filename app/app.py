@@ -76,7 +76,9 @@ examples_dir = os.path.join(HERE, "examples")
 examples = sorted(os.path.join(examples_dir, f) for f in os.listdir(examples_dir)
                   if f.lower().endswith((".jpg", ".jpeg", ".png"))) if os.path.isdir(examples_dir) else []
 
-with gr.Blocks(title="Saksi Jalan", theme=gr.themes.Soft(primary_hue="amber")) as demo:
+THEME = gr.themes.Soft(primary_hue="amber")
+
+with gr.Blocks(title="Saksi Jalan") as demo:
     verdict = gr.State()
     gr.Markdown(INTRO)
     with gr.Row():
@@ -100,8 +102,8 @@ with gr.Blocks(title="Saksi Jalan", theme=gr.themes.Soft(primary_hue="amber")) a
     extra = gr.Textbox(label="Anything else / Lain-lain", placeholder="e.g. dent on the rear bumper")
     write = gr.Button("Write statement", variant="primary")
     with gr.Row():
-        en = gr.Textbox(label="English", lines=6, show_copy_button=True)
-        ms = gr.Textbox(label="Bahasa Malaysia", lines=6, show_copy_button=True)
+        en = gr.Textbox(label="English", lines=6, buttons=["copy"])
+        ms = gr.Textbox(label="Bahasa Malaysia", lines=6, buttons=["copy"])
     gr.Markdown("Saksi Jalan is an aid for your police report, not evidence. "
                 "Built for the STEM2Connect AI Hackathon 2026. [Source code and measured results]"
                 "(https://github.com/ShermaineYap/saksi-jalan)")
@@ -113,4 +115,4 @@ with gr.Blocks(title="Saksi Jalan", theme=gr.themes.Soft(primary_hue="amber")) a
     write.click(statement, [verdict, when, where, plate, direction, extra], [en, ms])
 
 if __name__ == "__main__":
-    demo.launch(server_name="0.0.0.0", server_port=int(os.environ.get("PORT", 7860)))
+    demo.launch(server_name="0.0.0.0", server_port=int(os.environ.get("PORT", 7860)), theme=THEME)
