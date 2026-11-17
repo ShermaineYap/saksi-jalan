@@ -1,0 +1,1302 @@
+file,label,predicted,confidence,p_label,group
+perodua_myvi/0000.jpg,perodua_myvi,perodua_myvi,0.44,0.44,Aaront1059
+perodua_myvi/0001.jpg,perodua_myvi,perodua_myvi,0.849,0.849,Aaront1059
+perodua_myvi/0002.jpg,perodua_myvi,perodua_myvi,0.256,0.256,"Niels de Wit from Ede, The Netherlands"
+perodua_myvi/0003.jpg,perodua_myvi,perodua_myvi,0.539,0.539,EurovisionNim
+perodua_myvi/0004.jpg,perodua_myvi,perodua_myvi,0.481,0.481,LuvsMG481
+perodua_myvi/0005.jpg,perodua_myvi,perodua_myvi,0.726,0.726,LuvsMG481
+perodua_myvi/0006.jpg,perodua_myvi,perodua_myvi,0.748,0.748,LuvsMG481
+perodua_myvi/0007.jpg,perodua_myvi,perodua_myvi,0.863,0.863,LuvsMG481
+perodua_myvi/0008.jpg,perodua_myvi,perodua_myvi,0.631,0.631,LuvsMG481
+perodua_myvi/0009.jpg,perodua_myvi,proton_saga,0.325,0.281,LuvsMG481
+perodua_myvi/0010.jpg,perodua_myvi,perodua_myvi,0.736,0.736,Calreyn88
+perodua_myvi/0011.jpg,perodua_myvi,perodua_myvi,0.587,0.587,Aero777
+perodua_myvi/0012.jpg,perodua_myvi,perodua_myvi,0.608,0.608,Aero777
+perodua_myvi/0013.jpg,perodua_myvi,perodua_myvi,0.862,0.862,Aero777
+perodua_myvi/0014.jpg,perodua_myvi,perodua_myvi,0.594,0.594,Aero777
+perodua_myvi/0015.jpg,perodua_myvi,perodua_myvi,0.637,0.637,Aero777
+perodua_myvi/0016.jpg,perodua_myvi,perodua_myvi,0.861,0.861,Aero777
+perodua_myvi/0017.jpg,perodua_myvi,perodua_myvi,0.605,0.605,Aero777
+perodua_myvi/0018.jpg,perodua_myvi,perodua_myvi,0.574,0.574,Aero777
+perodua_myvi/0019.jpg,perodua_myvi,perodua_myvi,0.806,0.806,Aero777
+perodua_myvi/0020.jpg,perodua_myvi,perodua_myvi,0.748,0.748,Aero777
+perodua_myvi/0021.jpg,perodua_myvi,perodua_myvi,0.373,0.373,Vauxford
+perodua_myvi/0022.jpg,perodua_myvi,proton_iriz,0.524,0.178,Vauxford
+perodua_myvi/0023.jpg,perodua_myvi,perodua_myvi,0.504,0.504,Aero777
+perodua_myvi/0024.jpg,perodua_myvi,perodua_myvi,0.682,0.682,Aero777
+perodua_myvi/0025.jpg,perodua_myvi,perodua_myvi,0.581,0.581,Aero777
+perodua_myvi/0026.jpg,perodua_myvi,perodua_myvi,0.745,0.745,Aero777
+perodua_myvi/0027.jpg,perodua_myvi,perodua_myvi,0.712,0.712,Thien Zie Yung
+perodua_myvi/0028.jpg,perodua_myvi,perodua_myvi,0.566,0.566,Aero777
+perodua_myvi/0029.jpg,perodua_myvi,perodua_myvi,0.473,0.473,Aero777
+perodua_myvi/0031.jpg,perodua_myvi,perodua_myvi,0.674,0.674,Aero777
+perodua_myvi/0032.jpg,perodua_myvi,perodua_myvi,0.437,0.437,Aero777
+perodua_myvi/0033.jpg,perodua_myvi,perodua_myvi,0.524,0.524,Aero777
+perodua_myvi/0034.jpg,perodua_myvi,perodua_myvi,0.788,0.788,LuvsMG481
+perodua_myvi/0035.jpg,perodua_myvi,perodua_myvi,0.845,0.845,LuvsMG481
+perodua_myvi/0036.jpg,perodua_myvi,perodua_myvi,0.553,0.553,Aero777
+perodua_myvi/0037.jpg,perodua_myvi,perodua_myvi,0.755,0.755,Aero777
+perodua_myvi/0038.jpg,perodua_myvi,perodua_myvi,0.581,0.581,Aero777
+perodua_myvi/0039.jpg,perodua_myvi,perodua_myvi,0.804,0.804,Aero777
+perodua_myvi/0040.jpg,perodua_myvi,perodua_myvi,0.347,0.347,Aero777
+perodua_myvi/0041.jpg,perodua_myvi,perodua_myvi,0.746,0.746,Aero777
+perodua_myvi/0042.jpg,perodua_myvi,perodua_myvi,0.427,0.427,Aero777
+perodua_myvi/0043.jpg,perodua_myvi,perodua_myvi,0.625,0.625,Aero777
+perodua_myvi/0044.jpg,perodua_myvi,perodua_myvi,0.772,0.772,Aero777
+perodua_myvi/0045.jpg,perodua_myvi,perodua_myvi,0.858,0.858,Aero777
+perodua_myvi/0046.jpg,perodua_myvi,perodua_myvi,0.409,0.409,Aero777
+perodua_myvi/0047.jpg,perodua_myvi,proton_iriz,0.352,0.242,Aero777
+perodua_myvi/0048.jpg,perodua_myvi,perodua_myvi,0.694,0.694,Aero777
+perodua_myvi/0049.jpg,perodua_myvi,proton_iriz,0.614,0.286,Aero777
+perodua_myvi/0051.jpg,perodua_myvi,perodua_myvi,0.531,0.531,Bindydad123
+perodua_myvi/0052.jpg,perodua_myvi,perodua_myvi,0.964,0.964,Bindydad123
+perodua_myvi/0053.jpg,perodua_myvi,perodua_myvi,0.651,0.651,LuvsMG481
+perodua_myvi/0054.jpg,perodua_myvi,perodua_myvi,0.574,0.574,LuvsMG481
+perodua_myvi/0055.jpg,perodua_myvi,perodua_myvi,0.684,0.684,LuvsMG481
+perodua_myvi/0056.jpg,perodua_myvi,perodua_myvi,0.735,0.735,LuvsMG481
+perodua_myvi/0058.jpg,perodua_myvi,perodua_myvi,0.722,0.722,Aaront1059
+perodua_myvi/0059.jpg,perodua_myvi,perodua_myvi,0.548,0.548,LuvsMG481
+perodua_myvi/0060.jpg,perodua_myvi,perodua_myvi,0.403,0.403,LuvsMG481
+perodua_myvi/0064.jpg,perodua_myvi,perodua_myvi,0.291,0.291,Bindydad123
+perodua_myvi/0068.jpg,perodua_myvi,proton_persona,0.51,0.131,Bindydad123
+perodua_myvi/0086.jpg,perodua_myvi,proton_persona,0.371,0.209,Bindydad123
+perodua_myvi/0098.jpg,perodua_myvi,proton_iriz,0.425,0.098,Bindydad123
+perodua_myvi/0103.jpg,perodua_myvi,perodua_axia,0.421,0.168,Bindydad123
+perodua_myvi/0116.jpg,perodua_myvi,perodua_myvi,0.356,0.356,Bindydad123
+perodua_myvi/0120.jpg,perodua_myvi,perodua_myvi,0.507,0.507,Bindydad123
+perodua_myvi/0156.jpg,perodua_myvi,proton_persona,0.311,0.294,AIMHO'S REBELLION 8490s
+perodua_myvi/0158.jpg,perodua_myvi,perodua_myvi,0.411,0.411,AIMHO'S REBELLION 8490s
+perodua_myvi/0159.jpg,perodua_myvi,perodua_myvi,0.385,0.385,AIMHO'S REBELLION 8490s
+perodua_axia/0000.jpg,perodua_axia,perodua_axia,0.413,0.413,LuvsMG481
+perodua_axia/0001.jpg,perodua_axia,perodua_axia,0.72,0.72,LuvsMG481
+perodua_axia/0002.jpg,perodua_axia,perodua_axia,0.363,0.363,Koenigseggvibes
+perodua_axia/0003.jpg,perodua_axia,perodua_bezza,0.358,0.202,Aero777
+perodua_axia/0004.jpg,perodua_axia,perodua_axia,0.653,0.653,Aero777
+perodua_axia/0005.jpg,perodua_axia,perodua_axia,0.47,0.47,"Manoj Prasad from Kuala Lumpur, Malaysia"
+perodua_axia/0006.jpg,perodua_axia,perodua_myvi,0.495,0.359,"Manoj Prasad from Kuala Lumpur, Malaysia"
+perodua_axia/0007.jpg,perodua_axia,perodua_myvi,0.421,0.415,Bindydad123
+perodua_axia/0009.jpg,perodua_axia,perodua_myvi,0.577,0.331,Bindydad123
+perodua_axia/0010.jpg,perodua_axia,perodua_axia,0.543,0.543,Bindydad123
+perodua_axia/0014.jpg,perodua_axia,perodua_axia,0.44,0.44,Bindydad123
+perodua_axia/0015.jpg,perodua_axia,perodua_myvi,0.483,0.32,Bindydad123
+perodua_axia/0020.jpg,perodua_axia,perodua_axia,0.671,0.671,Bindydad123
+perodua_axia/0021.jpg,perodua_axia,perodua_axia,0.514,0.514,Bindydad123
+perodua_axia/0025.jpg,perodua_axia,perodua_myvi,0.71,0.212,Bindydad123
+perodua_axia/0026.jpg,perodua_axia,perodua_myvi,0.513,0.39,Bindydad123
+perodua_axia/0027.jpg,perodua_axia,perodua_axia,0.47,0.47,Bindydad123
+perodua_axia/0028.jpg,perodua_axia,perodua_axia,0.48,0.48,Bindydad123
+perodua_axia/0029.jpg,perodua_axia,perodua_myvi,0.584,0.27,Bindydad123
+perodua_axia/0030.jpg,perodua_axia,perodua_myvi,0.616,0.345,Bindydad123
+perodua_axia/0031.jpg,perodua_axia,perodua_axia,0.582,0.582,Bindydad123
+perodua_axia/0032.jpg,perodua_axia,perodua_myvi,0.424,0.405,Bindydad123
+perodua_axia/0037.jpg,perodua_axia,perodua_axia,0.584,0.584,Bindydad123
+perodua_axia/0038.jpg,perodua_axia,perodua_myvi,0.538,0.259,Bindydad123
+perodua_axia/0040.jpg,perodua_axia,perodua_axia,0.679,0.679,LuvsMG481
+perodua_axia/0041.jpg,perodua_axia,perodua_axia,0.505,0.505,LuvsMG481
+perodua_axia/0042.jpg,perodua_axia,perodua_axia,0.399,0.399,LuvsMG481
+perodua_axia/0043.jpg,perodua_axia,perodua_axia,0.727,0.727,LuvsMG481
+perodua_axia/0044.jpg,perodua_axia,perodua_myvi,0.38,0.164,Bindydad123
+perodua_axia/0045.jpg,perodua_axia,perodua_myvi,0.464,0.295,LuvsMG481
+perodua_axia/0046.jpg,perodua_axia,perodua_axia,0.644,0.644,LuvsMG481
+perodua_axia/0047.jpg,perodua_axia,perodua_axia,0.359,0.359,Bindydad123
+perodua_axia/0072.jpg,perodua_axia,perodua_axia,0.509,0.509,Bindydad123
+perodua_axia/0087.jpg,perodua_axia,perodua_myvi,0.711,0.181,Bindydad123
+perodua_axia/0088.jpg,perodua_axia,perodua_axia,0.559,0.559,Bindydad123
+perodua_axia/0089.jpg,perodua_axia,perodua_myvi,0.746,0.17,Bindydad123
+perodua_axia/0102.jpg,perodua_axia,perodua_axia,0.655,0.655,Bindydad123
+perodua_axia/0118.jpg,perodua_axia,perodua_myvi,0.601,0.22,Bindydad123
+perodua_axia/0119.jpg,perodua_axia,perodua_axia,0.423,0.423,Bindydad123
+perodua_axia/0123.jpg,perodua_axia,perodua_axia,0.482,0.482,Bindydad123
+perodua_axia/0124.jpg,perodua_axia,perodua_myvi,0.602,0.23,Bindydad123
+perodua_axia/0125.jpg,perodua_axia,perodua_axia,0.517,0.517,Bindydad123
+perodua_axia/0127.jpg,perodua_axia,perodua_axia,0.549,0.549,Bindydad123
+perodua_axia/0128.jpg,perodua_axia,perodua_myvi,0.428,0.355,Bindydad123
+perodua_axia/0129.jpg,perodua_axia,perodua_axia,0.672,0.672,Bindydad123
+perodua_axia/0131.jpg,perodua_axia,perodua_myvi,0.514,0.255,Bindydad123
+perodua_axia/0132.jpg,perodua_axia,perodua_myvi,0.626,0.212,Bindydad123
+perodua_axia/0136.jpg,perodua_axia,perodua_axia,0.689,0.689,Bindydad123
+perodua_axia/0157.jpg,perodua_axia,perodua_axia,0.513,0.513,Bindydad123
+perodua_bezza/0000.jpg,perodua_bezza,perodua_bezza,0.823,0.823,Aaront1059
+perodua_bezza/0005.jpg,perodua_bezza,perodua_bezza,0.602,0.602,LuvsMG481
+perodua_bezza/0007.jpg,perodua_bezza,perodua_bezza,0.778,0.778,7715Mateenz
+perodua_bezza/0009.jpg,perodua_bezza,perodua_bezza,0.608,0.608,LuvsMG481
+perodua_bezza/0010.jpg,perodua_bezza,perodua_bezza,0.673,0.673,LuvsMG481
+perodua_bezza/0030.jpg,perodua_bezza,perodua_bezza,0.915,0.915,Bindydad123
+perodua_bezza/0041.jpg,perodua_bezza,proton_persona,0.472,0.146,Bindydad123
+perodua_bezza/0061.jpg,perodua_bezza,perodua_bezza,0.88,0.88,Bindydad123
+perodua_bezza/0071.jpg,perodua_bezza,perodua_myvi,0.575,0.356,automachi 马来西亚汽车资讯网
+perodua_bezza/0072.jpg,perodua_bezza,perodua_bezza,0.77,0.77,automachi 马来西亚汽车资讯网
+perodua_bezza/0073.jpg,perodua_bezza,perodua_bezza,0.902,0.902,Aaront1059
+perodua_bezza/0074.jpg,perodua_bezza,perodua_bezza,0.864,0.864,AIMHO'S REBELLION 8490s
+perodua_bezza/0076.jpg,perodua_bezza,perodua_bezza,0.899,0.899,AIMHO'S REBELLION 8490s
+perodua_bezza/0077.jpg,perodua_bezza,perodua_bezza,0.601,0.601,AIMHO'S REBELLION 8490s
+perodua_bezza/0079.jpg,perodua_bezza,perodua_bezza,0.906,0.906,AIMHO'S REBELLION 8490s
+perodua_bezza/0080.jpg,perodua_bezza,perodua_bezza,0.756,0.756,LuvsMG481
+perodua_bezza/0081.jpg,perodua_bezza,perodua_bezza,0.829,0.829,LuvsMG481
+perodua_bezza/0082.jpg,perodua_bezza,perodua_bezza,0.925,0.925,AIMHO'S REBELLION 8490s
+perodua_bezza/0084.jpg,perodua_bezza,perodua_bezza,0.608,0.608,AIMHO'S REBELLION 8490s
+perodua_bezza/0087.jpg,perodua_bezza,perodua_bezza,0.809,0.809,AIMHO'S REBELLION 8490s
+perodua_bezza/0088.jpg,perodua_bezza,perodua_bezza,0.96,0.96,Aaront1059
+perodua_bezza/0089.jpg,perodua_bezza,perodua_bezza,0.955,0.955,Timorthy Burton
+perodua_bezza/0090.jpg,perodua_bezza,perodua_bezza,0.908,0.908,Anisda Md Top
+perodua_bezza/0091.jpg,perodua_bezza,perodua_bezza,0.855,0.855,7715Mateenz
+perodua_bezza/0092.jpg,perodua_bezza,perodua_bezza,0.823,0.823,7715Mateenz
+perodua_bezza/0093.jpg,perodua_bezza,perodua_bezza,0.946,0.946,7715Mateenz
+perodua_bezza/0095.jpg,perodua_bezza,perodua_bezza,0.755,0.755,7715Mateenz
+perodua_bezza/0096.jpg,perodua_bezza,perodua_bezza,0.849,0.849,7715Mateenz
+perodua_bezza/0097.jpg,perodua_bezza,perodua_bezza,0.534,0.534,7715Mateenz
+perodua_bezza/0099.jpg,perodua_bezza,perodua_bezza,0.871,0.871,Bindydad123
+perodua_bezza/0100.jpg,perodua_bezza,perodua_bezza,0.807,0.807,Bindydad123
+perodua_bezza/0101.jpg,perodua_bezza,perodua_bezza,0.839,0.839,Bindydad123
+perodua_bezza/0102.jpg,perodua_bezza,proton_persona,0.288,0.286,Bindydad123
+perodua_bezza/0103.jpg,perodua_bezza,perodua_bezza,0.461,0.461,Bindydad123
+perodua_bezza/0104.jpg,perodua_bezza,perodua_bezza,0.509,0.509,Bindydad123
+perodua_bezza/0105.jpg,perodua_bezza,perodua_bezza,0.579,0.579,Bindydad123
+perodua_bezza/0106.jpg,perodua_bezza,perodua_bezza,0.545,0.545,Bindydad123
+perodua_bezza/0107.jpg,perodua_bezza,perodua_bezza,0.647,0.647,Bindydad123
+perodua_bezza/0108.jpg,perodua_bezza,perodua_bezza,0.876,0.876,© M 93
+perodua_bezza/0109.jpg,perodua_bezza,perodua_bezza,0.98,0.98,© M 93
+perodua_bezza/0110.jpg,perodua_bezza,perodua_bezza,0.847,0.847,Bindydad123
+perodua_bezza/0111.jpg,perodua_bezza,perodua_bezza,0.945,0.945,Pak Dollah
+perodua_bezza/0112.jpg,perodua_bezza,perodua_bezza,0.824,0.824,Pak Dollah
+perodua_bezza/0114.jpg,perodua_bezza,perodua_bezza,0.97,0.97,Pak Dollah
+perodua_bezza/0115.jpg,perodua_bezza,perodua_bezza,0.97,0.97,Pak Dollah
+perodua_bezza/0116.jpg,perodua_bezza,perodua_bezza,0.64,0.64,Bindydad123
+perodua_bezza/0117.jpg,perodua_bezza,perodua_bezza,0.658,0.658,Firzafp
+perodua_bezza/0119.jpg,perodua_bezza,perodua_bezza,0.606,0.606,Bindydad123
+perodua_bezza/0120.jpg,perodua_bezza,perodua_bezza,0.895,0.895,Bindydad123
+proton_saga/0001.jpg,proton_saga,proton_saga,0.957,0.957,"Riley from Christchurch, New Zealand"
+proton_saga/0002.jpg,proton_saga,proton_saga,0.968,0.968,Vauxford
+proton_saga/0003.jpg,proton_saga,proton_saga,0.979,0.979,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0004.jpg,proton_saga,proton_saga,0.972,0.972,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0005.jpg,proton_saga,proton_saga,0.959,0.959,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0007.jpg,proton_saga,proton_saga,0.968,0.968,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0008.jpg,proton_saga,proton_saga,0.941,0.941,Calreyn88
+proton_saga/0009.jpg,proton_saga,proton_saga,0.971,0.971,Vauxford
+proton_saga/0010.jpg,proton_saga,proton_saga,0.968,0.968,Vauxford
+proton_saga/0011.jpg,proton_saga,proton_saga,0.98,0.98,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0012.jpg,proton_saga,proton_saga,0.982,0.982,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0013.jpg,proton_saga,proton_saga,0.984,0.984,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0014.jpg,proton_saga,proton_saga,0.951,0.951,Aero777
+proton_saga/0015.jpg,proton_saga,proton_saga,0.987,0.987,Aero777
+proton_saga/0016.jpg,proton_saga,proton_saga,0.988,0.988,"Riley from Christchurch, New Zealand"
+proton_saga/0017.jpg,proton_saga,proton_saga,0.957,0.957,"Riley from Christchurch, New Zealand"
+proton_saga/0018.jpg,proton_saga,proton_saga,0.872,0.872,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0019.jpg,proton_saga,proton_saga,0.964,0.964,Aero777
+proton_saga/0020.jpg,proton_saga,proton_saga,0.94,0.94,Aero777
+proton_saga/0021.jpg,proton_saga,proton_saga,0.9,0.9,Aero777
+proton_saga/0022.jpg,proton_saga,proton_saga,0.87,0.87,Aero777
+proton_saga/0023.jpg,proton_saga,proton_saga,0.957,0.957,Aero777
+proton_saga/0035.jpg,proton_saga,proton_saga,0.953,0.953,Aero777
+proton_saga/0036.jpg,proton_saga,proton_saga,0.963,0.963,Aero777
+proton_saga/0037.jpg,proton_saga,proton_saga,0.968,0.968,"Kieran White from Manchester, England"
+proton_saga/0038.jpg,proton_saga,proton_saga,0.969,0.969,"Kieran White from Manchester, England"
+proton_saga/0039.jpg,proton_saga,proton_saga,0.962,0.962,Vauxford
+proton_saga/0040.jpg,proton_saga,proton_saga,0.915,0.915,Vauxford
+proton_saga/0041.jpg,proton_saga,proton_saga,0.901,0.901,Spanish Coches
+proton_saga/0042.jpg,proton_saga,proton_saga,0.96,0.96,Rob
+proton_saga/0043.jpg,proton_saga,proton_saga,0.976,0.976,"Riley from Christchurch, New Zealand"
+proton_saga/0044.jpg,proton_saga,proton_saga,0.915,0.915,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0045.jpg,proton_saga,proton_saga,0.683,0.683,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0046.jpg,proton_saga,proton_saga,0.832,0.832,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0050.jpg,proton_saga,proton_saga,0.977,0.977,Aero777
+proton_saga/0051.jpg,proton_saga,proton_saga,0.95,0.95,Calreyn88
+proton_saga/0052.jpg,proton_saga,proton_saga,0.895,0.895,Aero777
+proton_saga/0053.jpg,proton_saga,proton_saga,0.975,0.975,Aero777
+proton_saga/0054.jpg,proton_saga,proton_saga,0.987,0.987,Aero777
+proton_saga/0055.jpg,proton_saga,proton_saga,0.942,0.942,Aero777
+proton_saga/0056.jpg,proton_saga,proton_saga,0.94,0.94,Aero777
+proton_saga/0058.jpg,proton_saga,proton_saga,0.907,0.907,Rutger van der Maar
+proton_saga/0060.jpg,proton_saga,proton_saga,0.905,0.905,Calreyn88
+proton_saga/0061.jpg,proton_saga,proton_saga,0.958,0.958,Calreyn88
+proton_saga/0062.jpg,proton_saga,proton_saga,0.804,0.804,Calreyn88
+proton_saga/0063.jpg,proton_saga,proton_saga,0.942,0.942,"Kieran White from Manchester, England"
+proton_saga/0065.jpg,proton_saga,proton_saga,0.926,0.926,Calreyn88
+proton_saga/0066.jpg,proton_saga,proton_saga,0.893,0.893,Calreyn88
+proton_saga/0067.jpg,proton_saga,proton_saga,0.883,0.883,Calreyn88
+proton_saga/0068.jpg,proton_saga,proton_saga,0.917,0.917,Calreyn88
+proton_saga/0069.jpg,proton_saga,proton_saga,0.82,0.82,Aero777
+proton_saga/0070.jpg,proton_saga,proton_saga,0.904,0.904,Aero777
+proton_saga/0071.jpg,proton_saga,proton_saga,0.956,0.956,Maarten van der Bent
+proton_saga/0072.jpg,proton_saga,proton_saga,0.951,0.951,Aero777
+proton_saga/0073.jpg,proton_saga,proton_saga,0.943,0.943,Aero777
+proton_saga/0074.jpg,proton_saga,proton_saga,0.953,0.953,Aero777
+proton_saga/0075.jpg,proton_saga,proton_saga,0.876,0.876,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0076.jpg,proton_saga,proton_saga,0.778,0.778,Aero777
+proton_saga/0077.jpg,proton_saga,proton_saga,0.937,0.937,Aero777
+proton_saga/0078.jpg,proton_saga,proton_saga,0.791,0.791,Aero777
+proton_saga/0079.jpg,proton_saga,proton_saga,0.628,0.628,Aero777
+proton_saga/0080.jpg,proton_saga,proton_saga,0.779,0.779,Aero777
+proton_saga/0081.jpg,proton_saga,proton_persona,0.497,0.475,User3204
+proton_saga/0082.jpg,proton_saga,proton_saga,0.753,0.753,Yun Huang Yong
+proton_saga/0083.jpg,proton_saga,proton_saga,0.769,0.769,Aero777
+proton_saga/0084.jpg,proton_saga,proton_saga,0.86,0.86,Aero777
+proton_saga/0086.jpg,proton_saga,proton_saga,0.872,0.872,Aero777
+proton_saga/0087.jpg,proton_saga,proton_saga,0.874,0.874,Aero777
+proton_saga/0088.jpg,proton_saga,proton_saga,0.836,0.836,Aero777
+proton_saga/0089.jpg,proton_saga,proton_saga,0.63,0.63,Aero777
+proton_saga/0090.jpg,proton_saga,proton_saga,0.662,0.662,Aero777
+proton_saga/0091.jpg,proton_saga,proton_saga,0.61,0.61,Aero777
+proton_saga/0092.jpg,proton_saga,proton_saga,0.741,0.741,Aero777
+proton_saga/0093.jpg,proton_saga,proton_saga,0.637,0.637,Aero777
+proton_saga/0094.jpg,proton_saga,proton_saga,0.774,0.774,Aero777
+proton_saga/0095.jpg,proton_saga,proton_saga,0.821,0.821,Aero777
+proton_saga/0096.jpg,proton_saga,proton_saga,0.844,0.844,Basil Strahm
+proton_saga/0097.jpg,proton_saga,proton_saga,0.752,0.752,Aero777
+proton_saga/0098.jpg,proton_saga,proton_saga,0.884,0.884,Aero777
+proton_saga/0099.jpg,proton_saga,proton_saga,0.793,0.793,Aero777
+proton_saga/0101.jpg,proton_saga,proton_saga,0.85,0.85,Aero777
+proton_saga/0102.jpg,proton_saga,proton_saga,0.663,0.663,Aero777
+proton_saga/0103.jpg,proton_saga,proton_saga,0.862,0.862,Aero777
+proton_saga/0104.jpg,proton_saga,proton_saga,0.792,0.792,Aero777
+proton_saga/0105.jpg,proton_saga,proton_saga,0.739,0.739,Aero777
+proton_saga/0106.jpg,proton_saga,proton_saga,0.637,0.637,Aero777
+proton_saga/0109.jpg,proton_saga,proton_saga,0.697,0.697,Aero777
+proton_saga/0111.jpg,proton_saga,proton_saga,0.871,0.871,Manoj Prasad
+proton_saga/0112.jpg,proton_saga,proton_saga,0.531,0.531,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0113.jpg,proton_saga,proton_saga,0.698,0.698,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0114.jpg,proton_saga,proton_persona,0.496,0.253,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0117.jpg,proton_saga,proton_persona,0.44,0.38,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0121.jpg,proton_saga,proton_saga,0.794,0.794,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_saga/0122.jpg,proton_saga,proton_persona,0.601,0.161,LuvsMG481
+proton_saga/0123.jpg,proton_saga,proton_persona,0.511,0.151,LuvsMG481
+proton_saga/0124.jpg,proton_saga,proton_persona,0.51,0.259,AIMHO'S REBELLION 8490s
+proton_saga/0125.jpg,proton_saga,proton_persona,0.463,0.175,AIMHO'S REBELLION 8490s
+proton_saga/0127.jpg,proton_saga,proton_persona,0.529,0.068,AIMHO'S REBELLION 8490s
+proton_saga/0128.jpg,proton_saga,proton_saga,0.409,0.409,Bindydad123
+proton_persona/0000.jpg,proton_persona,proton_persona,0.978,0.978,S5A-0043
+proton_persona/0002.jpg,proton_persona,proton_persona,0.893,0.893,Bindydad123
+proton_persona/0003.jpg,proton_persona,proton_persona,0.72,0.72,"Nivek.Old.Gold from Hardwick, UK"
+proton_persona/0004.jpg,proton_persona,proton_persona,0.825,0.825,Vauxford
+proton_persona/0005.jpg,proton_persona,proton_persona,0.945,0.945,Vauxford
+proton_persona/0006.jpg,proton_persona,proton_persona,0.926,0.926,Calreyn88
+proton_persona/0007.jpg,proton_persona,proton_persona,0.9,0.9,RL GNZLZ (Flickr)
+proton_persona/0008.jpg,proton_persona,proton_persona,0.84,0.84,Spanish Coches
+proton_persona/0009.jpg,proton_persona,proton_persona,0.988,0.988,Charlie from United Kingdom
+proton_persona/0010.jpg,proton_persona,proton_persona,0.968,0.968,Vauxford
+proton_persona/0011.jpg,proton_persona,proton_persona,0.954,0.954,"TuRbO_J from Adelaide, Australia"
+proton_persona/0012.jpg,proton_persona,proton_persona,0.778,0.778,"TuRbO_J from Adelaide, Australia"
+proton_persona/0013.jpg,proton_persona,proton_persona,0.868,0.868,EurovisionNim
+proton_persona/0014.jpg,proton_persona,proton_persona,0.805,0.805,Shankar S.
+proton_persona/0015.jpg,proton_persona,proton_persona,0.592,0.592,Aero777
+proton_persona/0016.jpg,proton_persona,proton_persona,0.829,0.829,Aero777
+proton_persona/0017.jpg,proton_persona,proton_persona,0.646,0.646,Aero777
+proton_persona/0018.jpg,proton_persona,proton_persona,0.934,0.934,Aero777
+proton_persona/0020.jpg,proton_persona,proton_persona,0.953,0.953,Aero777
+proton_persona/0021.jpg,proton_persona,proton_persona,0.621,0.621,Ken Marshall
+proton_persona/0022.jpg,proton_persona,proton_persona,0.785,0.785,Aero777
+proton_persona/0023.jpg,proton_persona,proton_persona,0.89,0.89,Aero777
+proton_persona/0024.jpg,proton_persona,proton_persona,0.935,0.935,Aero777
+proton_persona/0025.jpg,proton_persona,proton_persona,0.939,0.939,Aero777
+proton_persona/0026.jpg,proton_persona,proton_persona,0.712,0.712,Aero777
+proton_persona/0027.jpg,proton_persona,proton_iriz,0.526,0.369,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_persona/0028.jpg,proton_persona,proton_persona,0.752,0.752,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_persona/0029.jpg,proton_persona,proton_persona,0.614,0.614,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_persona/0030.jpg,proton_persona,proton_persona,0.837,0.837,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_persona/0032.jpg,proton_persona,proton_iriz,0.429,0.249,LuvsMG481
+proton_persona/0033.jpg,proton_persona,proton_persona,0.8,0.8,LuvsMG481
+proton_persona/0050.jpg,proton_persona,proton_persona,0.665,0.665,Bindydad123
+proton_persona/0059.jpg,proton_persona,proton_persona,0.589,0.589,Bindydad123
+proton_persona/0066.jpg,proton_persona,perodua_bezza,0.502,0.309,Bindydad123
+proton_persona/0071.jpg,proton_persona,proton_persona,0.551,0.551,Bindydad123
+proton_persona/0073.jpg,proton_persona,proton_persona,0.694,0.694,Bindydad123
+proton_persona/0074.jpg,proton_persona,proton_persona,0.554,0.554,Bindydad123
+proton_persona/0075.jpg,proton_persona,perodua_myvi,0.582,0.268,Bindydad123
+proton_persona/0077.jpg,proton_persona,perodua_myvi,0.371,0.286,Bindydad123
+proton_persona/0081.jpg,proton_persona,proton_persona,0.462,0.462,Bindydad123
+proton_persona/0088.jpg,proton_persona,proton_persona,0.378,0.378,Bindydad123
+proton_persona/0089.jpg,proton_persona,perodua_myvi,0.456,0.324,Bindydad123
+proton_persona/0090.jpg,proton_persona,proton_persona,0.744,0.744,Bindydad123
+proton_persona/0094.jpg,proton_persona,perodua_myvi,0.261,0.232,Bindydad123
+proton_persona/0097.jpg,proton_persona,proton_persona,0.338,0.338,Bindydad123
+proton_persona/0101.jpg,proton_persona,proton_persona,0.32,0.32,Bindydad123
+proton_persona/0103.jpg,proton_persona,perodua_bezza,0.378,0.363,Bindydad123
+proton_persona/0104.jpg,proton_persona,proton_persona,0.745,0.745,Bindydad123
+proton_persona/0111.jpg,proton_persona,proton_persona,0.695,0.695,Bindydad123
+proton_persona/0115.jpg,proton_persona,proton_persona,0.356,0.356,Bindydad123
+proton_persona/0116.jpg,proton_persona,proton_persona,0.812,0.812,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_persona/0117.jpg,proton_persona,proton_persona,0.787,0.787,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_persona/0118.jpg,proton_persona,proton_persona,0.907,0.907,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_persona/0119.jpg,proton_persona,proton_iriz,0.442,0.296,LuvsMG481
+proton_persona/0120.jpg,proton_persona,proton_persona,0.805,0.805,LuvsMG481
+proton_persona/0121.jpg,proton_persona,proton_iriz,0.704,0.174,LuvsMG481
+proton_persona/0122.jpg,proton_persona,proton_persona,0.816,0.816,LuvsMG481
+proton_persona/0124.jpg,proton_persona,proton_persona,0.579,0.579,AIMHO'S REBELLION 8490s
+proton_persona/0126.jpg,proton_persona,proton_persona,0.831,0.831,AIMHO'S REBELLION 8490s
+proton_persona/0127.jpg,proton_persona,proton_iriz,0.369,0.139,Fyc09913
+proton_persona/0128.jpg,proton_persona,proton_iriz,0.563,0.15,LuvsMG481
+proton_persona/0129.jpg,proton_persona,proton_persona,0.867,0.867,LuvsMG481
+proton_persona/0130.jpg,proton_persona,proton_persona,0.357,0.357,LuvsMG481
+proton_persona/0131.jpg,proton_persona,proton_persona,0.809,0.809,LuvsMG481
+proton_persona/0132.jpg,proton_persona,proton_persona,0.949,0.949,alcuin (Flickr)
+proton_persona/0143.jpg,proton_persona,proton_persona,0.712,0.712,shankar s.
+proton_persona/0150.jpg,proton_persona,proton_persona,0.862,0.862,Bindydad123
+proton_persona/0151.jpg,proton_persona,proton_persona,0.806,0.806,Bindydad123
+proton_persona/0156.jpg,proton_persona,proton_persona,0.663,0.663,Suryasuharman
+proton_persona/0159.jpg,proton_persona,proton_persona,0.856,0.856,LuvsMG481
+proton_iriz/0000.jpg,proton_iriz,proton_iriz,0.943,0.943,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_iriz/0002.jpg,proton_iriz,proton_iriz,0.967,0.967,Aero777
+proton_iriz/0003.jpg,proton_iriz,proton_iriz,0.879,0.879,Aero777
+proton_iriz/0004.jpg,proton_iriz,proton_iriz,0.934,0.934,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_iriz/0005.jpg,proton_iriz,proton_iriz,0.972,0.972,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_iriz/0006.jpg,proton_iriz,proton_iriz,0.9,0.9,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_iriz/0007.jpg,proton_iriz,proton_iriz,0.877,0.877,"Manoj Prasad from Kuala Lumpur, Malaysia"
+proton_iriz/0008.jpg,proton_iriz,proton_iriz,0.595,0.595,LuvsMG481
+proton_iriz/0009.jpg,proton_iriz,proton_iriz,0.784,0.784,LuvsMG481
+proton_iriz/0039.jpg,proton_iriz,proton_iriz,0.693,0.693,Bindydad123
+proton_iriz/0049.jpg,proton_iriz,proton_iriz,0.313,0.313,Bindydad123
+proton_iriz/0054.jpg,proton_iriz,proton_persona,0.409,0.275,Bindydad123
+proton_iriz/0057.jpg,proton_iriz,proton_iriz,0.817,0.817,Bindydad123
+proton_iriz/0065.jpg,proton_iriz,proton_iriz,0.751,0.751,Bindydad123
+proton_iriz/0066.jpg,proton_iriz,proton_iriz,0.855,0.855,Bindydad123
+proton_iriz/0080.jpg,proton_iriz,proton_iriz,0.448,0.448,Bindydad123
+proton_iriz/0092.jpg,proton_iriz,proton_iriz,0.466,0.466,Bindydad123
+proton_iriz/0109.jpg,proton_iriz,proton_iriz,0.903,0.903,Bindydad123
+proton_iriz/0110.jpg,proton_iriz,proton_iriz,0.673,0.673,Bindydad123
+proton_iriz/0121.jpg,proton_iriz,proton_iriz,0.577,0.577,Bindydad123
+proton_iriz/0128.jpg,proton_iriz,proton_persona,0.467,0.116,Bindydad123
+proton_iriz/0135.jpg,proton_iriz,proton_iriz,0.976,0.976,AIMHO'S REBELLION 8490s
+proton_iriz/0136.jpg,proton_iriz,proton_iriz,0.727,0.727,LuvsMG481
+proton_iriz/0138.jpg,proton_iriz,proton_iriz,0.629,0.629,Bindydad123
+proton_iriz/0139.jpg,proton_iriz,proton_iriz,0.388,0.388,© M 93
+proton_iriz/0140.jpg,proton_iriz,proton_iriz,0.861,0.861,© M 93
+proton_iriz/0141.jpg,proton_iriz,proton_iriz,0.542,0.542,Azreey
+proton_iriz/0143.jpg,proton_iriz,proton_iriz,0.316,0.316,Neil
+proton_iriz/0149.jpg,proton_iriz,proton_persona,0.46,0.111,Bindydad123
+perodua_myvi/ov_0000.jpg,perodua_myvi,perodua_myvi,0.938,0.938,Aero7MY
+perodua_myvi/ov_0001.jpg,perodua_myvi,perodua_myvi,0.736,0.736,Aero7MY
+perodua_myvi/ov_0003.jpg,perodua_myvi,perodua_myvi,0.76,0.76,ariff firdaus
+perodua_myvi/ov_0004.jpg,perodua_myvi,perodua_myvi,0.904,0.904,thienzieyung
+perodua_myvi/ov_0005.jpg,perodua_myvi,perodua_myvi,0.591,0.591,thienzieyung
+perodua_myvi/ov_0006.jpg,perodua_myvi,perodua_myvi,0.799,0.799,thienzieyung
+perodua_myvi/ov_0007.jpg,perodua_myvi,perodua_myvi,0.97,0.97,thienzieyung
+perodua_myvi/ov_0009.jpg,perodua_myvi,perodua_myvi,0.727,0.727,thienzieyung
+perodua_myvi/ov_0010.jpg,perodua_myvi,perodua_myvi,0.829,0.829,Aero7MY
+perodua_myvi/ov_0011.jpg,perodua_myvi,perodua_myvi,0.709,0.709,thienzieyung
+perodua_myvi/ov_0012.jpg,perodua_myvi,perodua_myvi,0.929,0.929,Aero7MY
+perodua_myvi/ov_0013.jpg,perodua_myvi,perodua_myvi,0.949,0.949,Aero7MY
+perodua_myvi/ov_0014.jpg,perodua_myvi,perodua_myvi,0.962,0.962,Aero7MY
+perodua_myvi/ov_0015.jpg,perodua_myvi,perodua_myvi,0.949,0.949,Aero7MY
+perodua_myvi/ov_0016.jpg,perodua_myvi,perodua_myvi,0.708,0.708,Aero7MY
+perodua_myvi/ov_0017.jpg,perodua_myvi,perodua_myvi,0.818,0.818,Aero7MY
+perodua_myvi/ov_0018.jpg,perodua_myvi,perodua_myvi,0.933,0.933,Aero7MY
+perodua_myvi/ov_0019.jpg,perodua_myvi,perodua_myvi,0.706,0.706,NielsdeWit
+perodua_myvi/ov_0020.jpg,perodua_myvi,perodua_myvi,0.926,0.926,NZ Car Freak
+perodua_myvi/ov_0021.jpg,perodua_myvi,perodua_myvi,0.743,0.743,Aero7MY
+perodua_myvi/ov_0022.jpg,perodua_myvi,perodua_myvi,0.956,0.956,Aero7MY
+perodua_myvi/ov_0023.jpg,perodua_myvi,perodua_myvi,0.809,0.809,Aero7MY
+perodua_myvi/ov_0024.jpg,perodua_myvi,perodua_myvi,0.869,0.869,Aero7MY
+perodua_myvi/ov_0025.jpg,perodua_myvi,perodua_myvi,0.864,0.864,Aero7MY
+perodua_myvi/ov_0026.jpg,perodua_myvi,perodua_myvi,0.845,0.845,Aero7MY
+perodua_myvi/ov_0027.jpg,perodua_myvi,perodua_myvi,0.939,0.939,Aero7MY
+perodua_myvi/ov_0028.jpg,perodua_myvi,perodua_myvi,0.916,0.916,Aero7MY
+perodua_myvi/ov_0029.jpg,perodua_myvi,perodua_myvi,0.791,0.791,Aero7MY
+perodua_myvi/ov_0030.jpg,perodua_myvi,perodua_myvi,0.951,0.951,Aero7MY
+perodua_myvi/ov_0031.jpg,perodua_myvi,perodua_myvi,0.858,0.858,Aero7MY
+perodua_myvi/ov_0032.jpg,perodua_myvi,perodua_myvi,0.952,0.952,Aero7MY
+perodua_myvi/ov_0033.jpg,perodua_myvi,perodua_myvi,0.956,0.956,Aero7MY
+perodua_myvi/ov_0034.jpg,perodua_myvi,perodua_myvi,0.962,0.962,Aero7MY
+perodua_myvi/ov_0035.jpg,perodua_myvi,perodua_myvi,0.909,0.909,Aero7MY
+perodua_myvi/ov_0036.jpg,perodua_myvi,perodua_myvi,0.853,0.853,Aero7MY
+perodua_myvi/ov_0037.jpg,perodua_myvi,perodua_myvi,0.739,0.739,Aero7MY
+perodua_myvi/ov_0038.jpg,perodua_myvi,perodua_myvi,0.924,0.924,Aero7MY
+perodua_myvi/ov_0039.jpg,perodua_myvi,perodua_myvi,0.943,0.943,Aero7MY
+perodua_myvi/ov_0040.jpg,perodua_myvi,perodua_myvi,0.826,0.826,Aero7MY
+perodua_myvi/ov_0041.jpg,perodua_myvi,perodua_myvi,0.755,0.755,Aero7MY
+perodua_myvi/ov_0042.jpg,perodua_myvi,perodua_myvi,0.775,0.775,Aero7MY
+perodua_myvi/ov_0043.jpg,perodua_myvi,perodua_myvi,0.938,0.938,Aero7MY
+perodua_myvi/ov_0044.jpg,perodua_myvi,perodua_myvi,0.889,0.889,Aero7MY
+perodua_myvi/ov_0045.jpg,perodua_myvi,perodua_myvi,0.856,0.856,Aero7MY
+perodua_myvi/ov_0046.jpg,perodua_myvi,perodua_myvi,0.82,0.82,Aero7MY
+perodua_myvi/ov_0047.jpg,perodua_myvi,perodua_myvi,0.941,0.941,Aero7MY
+perodua_myvi/ov_0049.jpg,perodua_myvi,perodua_myvi,0.939,0.939,Aero7MY
+perodua_myvi/ov_0050.jpg,perodua_myvi,perodua_myvi,0.913,0.913,Aero7MY
+perodua_myvi/ov_0052.jpg,perodua_myvi,perodua_myvi,0.916,0.916,Aero7MY
+perodua_myvi/ov_0053.jpg,perodua_myvi,perodua_myvi,0.764,0.764,Aero7MY
+perodua_myvi/ov_0054.jpg,perodua_myvi,perodua_myvi,0.871,0.871,Aero7MY
+perodua_myvi/ov_0058.jpg,perodua_myvi,perodua_myvi,0.652,0.652,thienzieyung
+perodua_myvi/ov_0066.jpg,perodua_myvi,proton_persona,0.767,0.09,thienzieyung
+perodua_myvi/ov_0147.jpg,perodua_myvi,perodua_myvi,0.362,0.362,Aero7MY
+perodua_myvi/ov_0148.jpg,perodua_myvi,proton_iriz,0.369,0.236,Aero7MY
+perodua_myvi/ov_0149.jpg,perodua_myvi,perodua_myvi,0.431,0.431,Aero7MY
+perodua_myvi/ov_0150.jpg,perodua_myvi,perodua_myvi,0.399,0.399,Aero7MY
+perodua_myvi/ov_0153.jpg,perodua_myvi,perodua_myvi,0.512,0.512,Aero7MY
+perodua_myvi/ov_0155.jpg,perodua_myvi,proton_iriz,0.254,0.227,Aero7MY
+perodua_myvi/ov_0156.jpg,perodua_myvi,perodua_myvi,0.418,0.418,Aero7MY
+perodua_myvi/ov_0157.jpg,perodua_myvi,perodua_myvi,0.609,0.609,Aero7MY
+perodua_myvi/ov_0158.jpg,perodua_myvi,proton_iriz,0.368,0.214,Aero7MY
+perodua_myvi/ov_0159.jpg,perodua_myvi,perodua_myvi,0.509,0.509,Aero7MY
+perodua_myvi/ov_0160.jpg,perodua_myvi,proton_iriz,0.47,0.188,Aero7MY
+perodua_myvi/ov_0161.jpg,perodua_myvi,perodua_myvi,0.424,0.424,Aero7MY
+perodua_myvi/ov_0162.jpg,perodua_myvi,proton_iriz,0.67,0.192,Aero7MY
+perodua_myvi/ov_0163.jpg,perodua_myvi,proton_iriz,0.638,0.307,Aero7MY
+perodua_myvi/ov_0164.jpg,perodua_myvi,proton_persona,0.305,0.169,Aero7MY
+perodua_myvi/ov_0166.jpg,perodua_myvi,perodua_myvi,0.29,0.29,Aero7MY
+perodua_myvi/ov_0167.jpg,perodua_myvi,proton_iriz,0.611,0.262,Aero7MY
+perodua_myvi/ov_0170.jpg,perodua_myvi,perodua_myvi,0.531,0.531,Aero7MY
+perodua_myvi/ov_0172.jpg,perodua_myvi,perodua_myvi,0.562,0.562,Aero7MY
+perodua_myvi/ov_0173.jpg,perodua_myvi,perodua_myvi,0.919,0.919,Kojach
+perodua_myvi/ov_0177.jpg,perodua_myvi,perodua_myvi,0.681,0.681,Kojach
+perodua_axia/ov_0000.jpg,perodua_axia,perodua_axia,0.743,0.743,Aero7MY
+perodua_axia/ov_0002.jpg,perodua_axia,perodua_axia,0.555,0.555,Aero7MY
+proton_saga/ov_0000.jpg,proton_saga,proton_saga,0.914,0.914,Aero7MY
+proton_saga/ov_0002.jpg,proton_saga,proton_saga,0.819,0.819,Aero7MY
+proton_saga/ov_0003.jpg,proton_saga,proton_saga,0.964,0.964,Aero7MY
+proton_saga/ov_0004.jpg,proton_saga,proton_saga,0.989,0.989,Aero7MY
+proton_saga/ov_0005.jpg,proton_saga,proton_saga,0.781,0.781,Aero7MY
+proton_saga/ov_0006.jpg,proton_saga,proton_saga,0.979,0.979,Aero7MY
+proton_saga/ov_0007.jpg,proton_saga,proton_saga,0.971,0.971,Aero7MY
+proton_saga/ov_0008.jpg,proton_saga,proton_saga,0.732,0.732,Aero7MY
+proton_saga/ov_0009.jpg,proton_saga,proton_saga,0.961,0.961,Aero7MY
+proton_saga/ov_0012.jpg,proton_saga,proton_saga,0.898,0.898,Aero7MY
+proton_saga/ov_0013.jpg,proton_saga,proton_saga,0.985,0.985,Aero7MY
+proton_saga/ov_0016.jpg,proton_saga,proton_saga,0.948,0.948,Aero7MY
+proton_saga/ov_0017.jpg,proton_saga,proton_saga,0.838,0.838,Conny Sandland
+proton_saga/ov_0020.jpg,proton_saga,proton_saga,0.759,0.759,Aero7MY
+proton_saga/ov_0021.jpg,proton_saga,proton_saga,0.969,0.969,Aero7MY
+proton_saga/ov_0022.jpg,proton_saga,proton_saga,0.981,0.981,Aero7MY
+proton_saga/ov_0023.jpg,proton_saga,proton_saga,0.965,0.965,Aero7MY
+proton_saga/ov_0024.jpg,proton_saga,proton_saga,0.904,0.904,Aero7MY
+proton_saga/ov_0025.jpg,proton_saga,proton_saga,0.967,0.967,Aero7MY
+proton_saga/ov_0026.jpg,proton_saga,proton_saga,0.968,0.968,Aero7MY
+proton_saga/ov_0027.jpg,proton_saga,proton_saga,0.917,0.917,Aero7MY
+proton_saga/ov_0028.jpg,proton_saga,proton_saga,0.947,0.947,Aero7MY
+proton_saga/ov_0029.jpg,proton_saga,proton_saga,0.956,0.956,Aero7MY
+proton_saga/ov_0030.jpg,proton_saga,proton_persona,0.665,0.28,Aero7MY
+proton_saga/ov_0031.jpg,proton_saga,proton_saga,0.972,0.972,Aero7MY
+proton_saga/ov_0032.jpg,proton_saga,proton_saga,0.959,0.959,Aero7MY
+proton_saga/ov_0033.jpg,proton_saga,proton_saga,0.898,0.898,Aero7MY
+proton_saga/ov_0034.jpg,proton_saga,proton_saga,0.975,0.975,Aero7MY
+proton_saga/ov_0035.jpg,proton_saga,proton_saga,0.969,0.969,Aero7MY
+proton_saga/ov_0036.jpg,proton_saga,proton_saga,0.922,0.922,Aero7MY
+proton_saga/ov_0037.jpg,proton_saga,proton_saga,0.561,0.561,Aero7MY
+proton_saga/ov_0039.jpg,proton_saga,proton_saga,0.974,0.974,Aero7MY
+proton_saga/ov_0040.jpg,proton_saga,proton_saga,0.969,0.969,Aero7MY
+proton_saga/ov_0043.jpg,proton_saga,proton_saga,0.513,0.513,thienzieyung
+proton_saga/ov_0045.jpg,proton_saga,proton_saga,0.944,0.944,Aero7MY
+proton_saga/ov_0052.jpg,proton_saga,proton_saga,0.895,0.895,Aero7MY
+proton_saga/ov_0054.jpg,proton_saga,proton_saga,0.953,0.953,Aero7MY
+proton_saga/ov_0059.jpg,proton_saga,proton_persona,0.721,0.149,Aero7MY
+proton_saga/ov_0060.jpg,proton_saga,proton_saga,0.865,0.865,thienzieyung
+proton_saga/ov_0061.jpg,proton_saga,proton_saga,0.684,0.684,Aero7MY
+proton_saga/ov_0062.jpg,proton_saga,proton_saga,0.986,0.986,Aero7MY
+proton_saga/ov_0065.jpg,proton_saga,proton_saga,0.948,0.948,Aero7MY
+proton_saga/ov_0066.jpg,proton_saga,proton_saga,0.951,0.951,Aero7MY
+proton_saga/ov_0067.jpg,proton_saga,proton_saga,0.961,0.961,NZ Car Freak
+proton_saga/ov_0068.jpg,proton_saga,proton_saga,0.854,0.854,Aero7MY
+proton_saga/ov_0069.jpg,proton_saga,proton_saga,0.969,0.969,NZ Car Freak
+proton_saga/ov_0070.jpg,proton_saga,proton_saga,0.992,0.992,NZ Car Freak
+proton_saga/ov_0071.jpg,proton_saga,proton_saga,0.493,0.493,Aero7MY
+proton_saga/ov_0072.jpg,proton_saga,proton_saga,0.778,0.778,Aero7MY
+proton_saga/ov_0073.jpg,proton_saga,proton_saga,0.494,0.494,Aero7MY
+proton_saga/ov_0074.jpg,proton_saga,proton_saga,0.719,0.719,Aero7MY
+proton_saga/ov_0075.jpg,proton_saga,proton_saga,0.818,0.818,Aero7MY
+proton_saga/ov_0076.jpg,proton_saga,proton_saga,0.978,0.978,NZ Car Freak
+proton_saga/ov_0077.jpg,proton_saga,proton_saga,0.863,0.863,Aero7MY
+proton_saga/ov_0078.jpg,proton_saga,proton_saga,0.873,0.873,Aero7MY
+proton_saga/ov_0079.jpg,proton_saga,proton_saga,0.663,0.663,Aero7MY
+proton_saga/ov_0080.jpg,proton_saga,proton_saga,0.906,0.906,Aero7MY
+proton_saga/ov_0081.jpg,proton_saga,proton_saga,0.413,0.413,Aero7MY
+proton_saga/ov_0082.jpg,proton_saga,proton_saga,0.705,0.705,Aero7MY
+proton_saga/ov_0083.jpg,proton_saga,proton_saga,0.715,0.715,Aero7MY
+proton_saga/ov_0084.jpg,proton_saga,proton_saga,0.601,0.601,Aero7MY
+proton_saga/ov_0086.jpg,proton_saga,proton_saga,0.785,0.785,Aero7MY
+proton_saga/ov_0087.jpg,proton_saga,proton_saga,0.774,0.774,Aero7MY
+proton_saga/ov_0090.jpg,proton_saga,proton_saga,0.594,0.594,Aero7MY
+proton_saga/ov_0091.jpg,proton_saga,proton_saga,0.851,0.851,Aero7MY
+proton_saga/ov_0092.jpg,proton_saga,proton_saga,0.552,0.552,Aero7MY
+proton_saga/ov_0098.jpg,proton_saga,proton_saga,0.899,0.899,Aero7MY
+proton_saga/ov_0099.jpg,proton_saga,proton_saga,0.611,0.611,Aero7MY
+proton_saga/ov_0100.jpg,proton_saga,proton_saga,0.852,0.852,Aero7MY
+proton_saga/ov_0101.jpg,proton_saga,proton_saga,0.732,0.732,Aero7MY
+proton_saga/ov_0102.jpg,proton_saga,proton_saga,0.68,0.68,Aero7MY
+proton_saga/ov_0103.jpg,proton_saga,proton_saga,0.722,0.722,Aero7MY
+proton_saga/ov_0104.jpg,proton_saga,proton_saga,0.883,0.883,Aero7MY
+proton_saga/ov_0105.jpg,proton_saga,proton_saga,0.766,0.766,Aero7MY
+proton_saga/ov_0106.jpg,proton_saga,proton_saga,0.8,0.8,Aero7MY
+proton_saga/ov_0107.jpg,proton_saga,proton_saga,0.777,0.777,Aero7MY
+proton_saga/ov_0108.jpg,proton_saga,proton_saga,0.912,0.912,Aero7MY
+proton_saga/ov_0109.jpg,proton_saga,proton_saga,0.823,0.823,Aero7MY
+proton_saga/ov_0110.jpg,proton_saga,proton_saga,0.964,0.964,grassrootsgroundswell
+proton_saga/ov_0112.jpg,proton_saga,proton_saga,0.934,0.934,Aero7MY
+proton_saga/ov_0113.jpg,proton_saga,proton_saga,0.784,0.784,Aero7MY
+proton_saga/ov_0114.jpg,proton_saga,proton_saga,0.895,0.895,Aero7MY
+proton_saga/ov_0115.jpg,proton_saga,proton_saga,0.93,0.93,Aero7MY
+proton_saga/ov_0116.jpg,proton_saga,proton_saga,0.583,0.583,Aero7MY
+proton_saga/ov_0117.jpg,proton_saga,proton_saga,0.724,0.724,Aero7MY
+proton_saga/ov_0118.jpg,proton_saga,proton_saga,0.545,0.545,somaditya
+proton_saga/ov_0123.jpg,proton_saga,proton_saga,0.935,0.935,Aero7MY
+proton_saga/ov_0124.jpg,proton_saga,proton_saga,0.908,0.908,Aero7MY
+proton_saga/ov_0126.jpg,proton_saga,proton_persona,0.925,0.036,Aero7MY
+proton_saga/ov_0127.jpg,proton_saga,proton_persona,0.721,0.202,Aero7MY
+proton_saga/ov_0128.jpg,proton_saga,proton_persona,0.918,0.068,Aero7MY
+proton_saga/ov_0129.jpg,proton_saga,proton_saga,0.45,0.45,Aero7MY
+proton_saga/ov_0130.jpg,proton_saga,proton_saga,0.839,0.839,Aero7MY
+proton_saga/ov_0131.jpg,proton_saga,proton_saga,0.777,0.777,Aero7MY
+proton_saga/ov_0135.jpg,proton_saga,proton_saga,0.662,0.662,Aero7MY
+proton_saga/ov_0139.jpg,proton_saga,proton_persona,0.825,0.1,thienzieyung
+proton_saga/ov_0140.jpg,proton_saga,proton_saga,0.802,0.802,NZ Car Freak
+proton_saga/ov_0142.jpg,proton_saga,proton_saga,0.979,0.979,rvandermaar
+proton_persona/ov_0000.jpg,proton_persona,proton_persona,0.871,0.871,Spanish Coches
+proton_persona/ov_0001.jpg,proton_persona,proton_persona,0.695,0.695,RL GNZLZ
+proton_persona/ov_0002.jpg,proton_persona,proton_persona,0.874,0.874,Aero7MY
+proton_persona/ov_0003.jpg,proton_persona,proton_persona,0.871,0.871,thienzieyung
+proton_persona/ov_0004.jpg,proton_persona,proton_persona,0.778,0.778,thienzieyung
+proton_persona/ov_0005.jpg,proton_persona,proton_persona,0.967,0.967,charles cars
+proton_persona/ov_0006.jpg,proton_persona,proton_persona,0.853,0.853,Aero7MY
+proton_persona/ov_0007.jpg,proton_persona,proton_persona,0.765,0.765,RL GNZLZ
+proton_persona/ov_0008.jpg,proton_persona,proton_persona,0.713,0.713,Aero7MY
+proton_persona/ov_0010.jpg,proton_persona,proton_persona,0.896,0.896,RL GNZLZ
+proton_persona/ov_0011.jpg,proton_persona,proton_persona,0.564,0.564,Aero7MY
+proton_persona/ov_0012.jpg,proton_persona,proton_persona,0.593,0.593,Aero7MY
+proton_persona/ov_0013.jpg,proton_persona,proton_persona,0.89,0.89,Aero7MY
+proton_persona/ov_0014.jpg,proton_persona,proton_persona,0.86,0.86,TuRbO_J
+proton_persona/ov_0015.jpg,proton_persona,proton_persona,0.732,0.732,TuRbO_J
+proton_persona/ov_0016.jpg,proton_persona,proton_persona,0.811,0.811,Aero7MY
+proton_persona/ov_0017.jpg,proton_persona,proton_persona,0.924,0.924,TuRbO_J
+proton_persona/ov_0018.jpg,proton_persona,proton_persona,0.637,0.637,Aero7MY
+proton_persona/ov_0019.jpg,proton_persona,proton_persona,0.682,0.682,RL GNZLZ
+proton_persona/ov_0020.jpg,proton_persona,proton_persona,0.722,0.722,RL GNZLZ
+proton_persona/ov_0023.jpg,proton_persona,proton_persona,0.651,0.651,Aero7MY
+proton_persona/ov_0028.jpg,proton_persona,proton_persona,0.369,0.369,Aero7MY
+proton_persona/ov_0029.jpg,proton_persona,proton_persona,0.72,0.72,Aero7MY
+proton_persona/ov_0030.jpg,proton_persona,proton_persona,0.951,0.951,kieranwhite599
+proton_persona/ov_0031.jpg,proton_persona,proton_persona,0.906,0.906,Aero7MY
+proton_persona/ov_0032.jpg,proton_persona,proton_persona,0.894,0.894,Aero7MY
+proton_persona/ov_0033.jpg,proton_persona,proton_persona,0.754,0.754,Aero7MY
+proton_persona/ov_0034.jpg,proton_persona,proton_persona,0.829,0.829,RL GNZLZ
+proton_persona/ov_0035.jpg,proton_persona,proton_persona,0.954,0.954,Aero7MY
+proton_persona/ov_0036.jpg,proton_persona,proton_persona,0.919,0.919,Aero7MY
+proton_persona/ov_0037.jpg,proton_persona,proton_persona,0.918,0.918,Aero7MY
+proton_persona/ov_0038.jpg,proton_persona,proton_persona,0.954,0.954,Aero7MY
+proton_persona/ov_0039.jpg,proton_persona,proton_persona,0.75,0.75,Aero7MY
+proton_persona/ov_0041.jpg,proton_persona,proton_persona,0.94,0.94,kieranwhite599
+proton_persona/ov_0044.jpg,proton_persona,proton_persona,0.826,0.826,Aero7MY
+proton_persona/ov_0045.jpg,proton_persona,proton_persona,0.89,0.89,Aero7MY
+proton_persona/ov_0046.jpg,proton_persona,proton_persona,0.637,0.637,Aero7MY
+proton_persona/ov_0047.jpg,proton_persona,proton_persona,0.485,0.485,Aero7MY
+proton_persona/ov_0048.jpg,proton_persona,proton_persona,0.967,0.967,rvandermaar
+proton_persona/ov_0049.jpg,proton_persona,proton_persona,0.626,0.626,thienzieyung
+proton_persona/ov_0050.jpg,proton_persona,proton_persona,0.704,0.704,rvandermaar
+proton_persona/ov_0051.jpg,proton_persona,proton_persona,0.781,0.781,rvandermaar
+proton_persona/ov_0052.jpg,proton_persona,proton_persona,0.708,0.708,Aero7MY
+proton_persona/ov_0053.jpg,proton_persona,proton_persona,0.701,0.701,Aero7MY
+proton_persona/ov_0054.jpg,proton_persona,proton_saga,0.915,0.062,TuRbO_J
+proton_persona/ov_0055.jpg,proton_persona,proton_persona,0.711,0.711,Nivek.Old.Gold
+proton_persona/ov_0057.jpg,proton_persona,proton_persona,0.581,0.581,TuRbO_J
+proton_persona/ov_0059.jpg,proton_persona,proton_persona,0.634,0.634,Aero7MY
+proton_iriz/ov_0000.jpg,proton_iriz,proton_iriz,0.658,0.658,Aero7MY
+proton_iriz/ov_0001.jpg,proton_iriz,proton_iriz,0.675,0.675,Aero7MY
+proton_iriz/ov_0002.jpg,proton_iriz,proton_iriz,0.552,0.552,Aero7MY
+proton_iriz/ov_0003.jpg,proton_iriz,proton_iriz,0.437,0.437,Aero7MY
+proton_iriz/ov_0004.jpg,proton_iriz,proton_iriz,0.417,0.417,Aero7MY
+proton_iriz/ov_0005.jpg,proton_iriz,proton_iriz,0.738,0.738,Aero7MY
+proton_iriz/ov_0006.jpg,proton_iriz,perodua_myvi,0.428,0.399,Aero7MY
+proton_iriz/ov_0007.jpg,proton_iriz,proton_iriz,0.441,0.441,Aero7MY
+perodua_axia/rf_car-model-gbo55__perodua-axia_0000.jpg,perodua_axia,perodua_axia,0.823,0.823,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0002.jpg,perodua_axia,perodua_axia,0.835,0.835,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0003.jpg,perodua_axia,perodua_axia,0.724,0.724,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0004.jpg,perodua_axia,perodua_axia,0.638,0.638,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0005.jpg,perodua_axia,perodua_axia,0.991,0.991,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0006.jpg,perodua_axia,perodua_axia,0.966,0.966,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0007.jpg,perodua_axia,perodua_axia,0.989,0.989,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0008.jpg,perodua_axia,perodua_axia,0.956,0.956,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0011.jpg,perodua_axia,perodua_axia,0.619,0.619,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0012.jpg,perodua_axia,perodua_axia,0.654,0.654,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0013.jpg,perodua_axia,perodua_axia,0.866,0.866,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0014.jpg,perodua_axia,perodua_axia,0.976,0.976,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0015.jpg,perodua_axia,perodua_axia,0.974,0.974,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0017.jpg,perodua_axia,perodua_axia,0.905,0.905,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0018.jpg,perodua_axia,perodua_axia,0.919,0.919,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0020.jpg,perodua_axia,perodua_axia,0.978,0.978,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0021.jpg,perodua_axia,perodua_axia,0.977,0.977,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0022.jpg,perodua_axia,perodua_axia,0.971,0.971,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0023.jpg,perodua_axia,perodua_axia,0.943,0.943,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0025.jpg,perodua_axia,perodua_axia,0.973,0.973,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0026.jpg,perodua_axia,perodua_axia,0.987,0.987,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0027.jpg,perodua_axia,perodua_axia,0.983,0.983,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0028.jpg,perodua_axia,perodua_axia,0.978,0.978,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0029.jpg,perodua_axia,perodua_axia,0.985,0.985,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0031.jpg,perodua_axia,perodua_axia,0.968,0.968,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0032.jpg,perodua_axia,perodua_axia,0.777,0.777,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0033.jpg,perodua_axia,perodua_axia,0.897,0.897,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0034.jpg,perodua_axia,perodua_axia,0.894,0.894,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0035.jpg,perodua_axia,perodua_axia,0.94,0.94,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0036.jpg,perodua_axia,perodua_axia,0.962,0.962,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0037.jpg,perodua_axia,perodua_axia,0.961,0.961,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0038.jpg,perodua_axia,perodua_axia,0.973,0.973,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0040.jpg,perodua_axia,perodua_axia,0.986,0.986,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0041.jpg,perodua_axia,perodua_axia,0.972,0.972,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0043.jpg,perodua_axia,perodua_axia,0.963,0.963,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0044.jpg,perodua_axia,perodua_axia,0.852,0.852,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0045.jpg,perodua_axia,perodua_axia,0.846,0.846,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0047.jpg,perodua_axia,perodua_axia,0.937,0.937,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0048.jpg,perodua_axia,perodua_axia,0.898,0.898,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0049.jpg,perodua_axia,perodua_axia,0.907,0.907,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0050.jpg,perodua_axia,perodua_axia,0.948,0.948,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0051.jpg,perodua_axia,perodua_axia,0.958,0.958,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0052.jpg,perodua_axia,perodua_axia,0.942,0.942,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0053.jpg,perodua_axia,perodua_axia,0.706,0.706,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0055.jpg,perodua_axia,perodua_axia,0.708,0.708,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0056.jpg,perodua_axia,perodua_axia,0.758,0.758,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0057.jpg,perodua_axia,perodua_axia,0.703,0.703,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0058.jpg,perodua_axia,perodua_axia,0.605,0.605,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0059.jpg,perodua_axia,perodua_axia,0.962,0.962,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0061.jpg,perodua_axia,perodua_axia,0.934,0.934,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0062.jpg,perodua_axia,perodua_axia,0.978,0.978,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0063.jpg,perodua_axia,perodua_axia,0.984,0.984,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0065.jpg,perodua_axia,perodua_axia,0.645,0.645,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0067.jpg,perodua_axia,perodua_axia,0.81,0.81,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0068.jpg,perodua_axia,perodua_axia,0.905,0.905,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0069.jpg,perodua_axia,perodua_axia,0.922,0.922,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0070.jpg,perodua_axia,perodua_axia,0.969,0.969,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0071.jpg,perodua_axia,perodua_axia,0.934,0.934,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0072.jpg,perodua_axia,perodua_axia,0.899,0.899,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0073.jpg,perodua_axia,perodua_axia,0.786,0.786,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0074.jpg,perodua_axia,perodua_axia,0.718,0.718,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0075.jpg,perodua_axia,perodua_axia,0.779,0.779,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0076.jpg,perodua_axia,perodua_axia,0.98,0.98,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0077.jpg,perodua_axia,perodua_axia,0.94,0.94,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0078.jpg,perodua_axia,perodua_axia,0.961,0.961,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0079.jpg,perodua_axia,perodua_axia,0.968,0.968,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0080.jpg,perodua_axia,perodua_axia,0.974,0.974,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0082.jpg,perodua_axia,perodua_axia,0.993,0.993,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0083.jpg,perodua_axia,perodua_axia,0.988,0.988,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0085.jpg,perodua_axia,perodua_axia,0.965,0.965,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0086.jpg,perodua_axia,perodua_axia,0.98,0.98,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0087.jpg,perodua_axia,perodua_axia,0.966,0.966,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0088.jpg,perodua_axia,perodua_bezza,0.604,0.318,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0089.jpg,perodua_axia,perodua_bezza,0.543,0.398,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0090.jpg,perodua_axia,perodua_bezza,0.502,0.436,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0091.jpg,perodua_axia,perodua_axia,0.927,0.927,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0092.jpg,perodua_axia,perodua_axia,0.926,0.926,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0094.jpg,perodua_axia,perodua_axia,0.989,0.989,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0096.jpg,perodua_axia,perodua_axia,0.987,0.987,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0097.jpg,perodua_axia,perodua_axia,0.987,0.987,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0099.jpg,perodua_axia,perodua_axia,0.984,0.984,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0100.jpg,perodua_axia,perodua_axia,0.914,0.914,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0101.jpg,perodua_axia,perodua_axia,0.975,0.975,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0102.jpg,perodua_axia,perodua_bezza,0.614,0.267,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0104.jpg,perodua_axia,perodua_axia,0.29,0.29,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0105.jpg,perodua_axia,perodua_myvi,0.339,0.252,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0106.jpg,perodua_axia,perodua_myvi,0.443,0.305,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0107.jpg,perodua_axia,perodua_myvi,0.424,0.37,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0108.jpg,perodua_axia,perodua_axia,0.908,0.908,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0110.jpg,perodua_axia,perodua_axia,0.949,0.949,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0111.jpg,perodua_axia,perodua_axia,0.928,0.928,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0112.jpg,perodua_axia,perodua_axia,0.97,0.97,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0113.jpg,perodua_axia,perodua_axia,0.976,0.976,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0114.jpg,perodua_axia,perodua_axia,0.691,0.691,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0115.jpg,perodua_axia,perodua_axia,0.825,0.825,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0117.jpg,perodua_axia,perodua_axia,0.972,0.972,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0118.jpg,perodua_axia,perodua_axia,0.931,0.931,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0119.jpg,perodua_axia,perodua_axia,0.886,0.886,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0120.jpg,perodua_axia,perodua_axia,0.959,0.959,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0121.jpg,perodua_axia,perodua_axia,0.967,0.967,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0122.jpg,perodua_axia,perodua_axia,0.96,0.96,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0123.jpg,perodua_axia,perodua_axia,0.942,0.942,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0124.jpg,perodua_axia,perodua_axia,0.935,0.935,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0125.jpg,perodua_axia,perodua_axia,0.922,0.922,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0126.jpg,perodua_axia,perodua_axia,0.975,0.975,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0127.jpg,perodua_axia,perodua_axia,0.985,0.985,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0129.jpg,perodua_axia,perodua_axia,0.956,0.956,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0130.jpg,perodua_axia,perodua_axia,0.923,0.923,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0132.jpg,perodua_axia,perodua_axia,0.977,0.977,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0134.jpg,perodua_axia,perodua_axia,0.691,0.691,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0137.jpg,perodua_axia,perodua_axia,0.863,0.863,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0138.jpg,perodua_axia,perodua_axia,0.884,0.884,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0139.jpg,perodua_axia,perodua_axia,0.903,0.903,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0140.jpg,perodua_axia,perodua_axia,0.983,0.983,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0141.jpg,perodua_axia,perodua_axia,0.979,0.979,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0142.jpg,perodua_axia,perodua_axia,0.906,0.906,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0143.jpg,perodua_axia,perodua_axia,0.734,0.734,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0144.jpg,perodua_axia,perodua_axia,0.939,0.939,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0145.jpg,perodua_axia,perodua_axia,0.731,0.731,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0147.jpg,perodua_axia,perodua_axia,0.789,0.789,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0148.jpg,perodua_axia,perodua_axia,0.755,0.755,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0149.jpg,perodua_axia,perodua_axia,0.909,0.909,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0151.jpg,perodua_axia,perodua_axia,0.985,0.985,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0152.jpg,perodua_axia,perodua_axia,0.97,0.97,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0153.jpg,perodua_axia,perodua_axia,0.983,0.983,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0154.jpg,perodua_axia,perodua_axia,0.805,0.805,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0155.jpg,perodua_axia,perodua_axia,0.935,0.935,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0156.jpg,perodua_axia,perodua_axia,0.844,0.844,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0158.jpg,perodua_axia,perodua_axia,0.919,0.919,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0159.jpg,perodua_axia,perodua_axia,0.771,0.771,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0161.jpg,perodua_axia,perodua_axia,0.867,0.867,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0162.jpg,perodua_axia,perodua_axia,0.886,0.886,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0164.jpg,perodua_axia,perodua_axia,0.798,0.798,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0165.jpg,perodua_axia,perodua_axia,0.69,0.69,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0166.jpg,perodua_axia,perodua_axia,0.735,0.735,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0167.jpg,perodua_axia,perodua_axia,0.831,0.831,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0168.jpg,perodua_axia,perodua_axia,0.839,0.839,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0171.jpg,perodua_axia,perodua_axia,0.93,0.93,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0173.jpg,perodua_axia,perodua_axia,0.959,0.959,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0174.jpg,perodua_axia,perodua_axia,0.955,0.955,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0175.jpg,perodua_axia,perodua_axia,0.972,0.972,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0176.jpg,perodua_axia,perodua_axia,0.977,0.977,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0177.jpg,perodua_axia,perodua_axia,0.973,0.973,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0178.jpg,perodua_axia,perodua_axia,0.954,0.954,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0179.jpg,perodua_axia,perodua_axia,0.973,0.973,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0180.jpg,perodua_axia,perodua_axia,0.757,0.757,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0181.jpg,perodua_axia,perodua_axia,0.85,0.85,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0182.jpg,perodua_axia,perodua_axia,0.535,0.535,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0184.jpg,perodua_axia,perodua_axia,0.986,0.986,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0185.jpg,perodua_axia,perodua_axia,0.985,0.985,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0186.jpg,perodua_axia,perodua_axia,0.977,0.977,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0187.jpg,perodua_axia,perodua_axia,0.954,0.954,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0188.jpg,perodua_axia,perodua_axia,0.963,0.963,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0189.jpg,perodua_axia,perodua_axia,0.911,0.911,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0190.jpg,perodua_axia,perodua_axia,0.872,0.872,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0193.jpg,perodua_axia,perodua_axia,0.877,0.877,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0194.jpg,perodua_axia,perodua_axia,0.844,0.844,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0195.jpg,perodua_axia,perodua_axia,0.826,0.826,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0196.jpg,perodua_axia,perodua_axia,0.974,0.974,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0197.jpg,perodua_axia,perodua_axia,0.976,0.976,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0199.jpg,perodua_axia,perodua_axia,0.47,0.47,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0200.jpg,perodua_axia,perodua_axia,0.583,0.583,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0202.jpg,perodua_axia,perodua_axia,0.547,0.547,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0204.jpg,perodua_axia,perodua_axia,0.604,0.604,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0205.jpg,perodua_axia,perodua_axia,0.983,0.983,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0206.jpg,perodua_axia,perodua_axia,0.97,0.97,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0207.jpg,perodua_axia,perodua_axia,0.94,0.94,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0208.jpg,perodua_axia,perodua_axia,0.9,0.9,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0209.jpg,perodua_axia,perodua_axia,0.877,0.877,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0211.jpg,perodua_axia,perodua_axia,0.61,0.61,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0214.jpg,perodua_axia,perodua_axia,0.971,0.971,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0215.jpg,perodua_axia,perodua_axia,0.978,0.978,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0217.jpg,perodua_axia,perodua_axia,0.916,0.916,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0218.jpg,perodua_axia,perodua_axia,0.977,0.977,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0219.jpg,perodua_axia,perodua_axia,0.968,0.968,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0220.jpg,perodua_axia,perodua_axia,0.852,0.852,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0221.jpg,perodua_axia,perodua_axia,0.955,0.955,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0222.jpg,perodua_axia,perodua_axia,0.938,0.938,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0223.jpg,perodua_axia,perodua_bezza,0.382,0.327,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0224.jpg,perodua_axia,perodua_bezza,0.349,0.244,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0226.jpg,perodua_axia,perodua_axia,0.954,0.954,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0227.jpg,perodua_axia,perodua_axia,0.984,0.984,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0228.jpg,perodua_axia,perodua_axia,0.961,0.961,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0229.jpg,perodua_axia,perodua_axia,0.92,0.92,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0230.jpg,perodua_axia,perodua_axia,0.984,0.984,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0231.jpg,perodua_axia,perodua_axia,0.984,0.984,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0232.jpg,perodua_axia,perodua_axia,0.952,0.952,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0233.jpg,perodua_axia,perodua_axia,0.902,0.902,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0234.jpg,perodua_axia,perodua_axia,0.95,0.95,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0235.jpg,perodua_axia,perodua_axia,0.813,0.813,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0238.jpg,perodua_axia,perodua_axia,0.826,0.826,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0239.jpg,perodua_axia,perodua_axia,0.834,0.834,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0240.jpg,perodua_axia,perodua_axia,0.792,0.792,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0241.jpg,perodua_axia,perodua_axia,0.964,0.964,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0244.jpg,perodua_axia,perodua_axia,0.623,0.623,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0246.jpg,perodua_axia,perodua_axia,0.534,0.534,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0247.jpg,perodua_axia,perodua_axia,0.309,0.309,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0248.jpg,perodua_axia,perodua_axia,0.454,0.454,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0250.jpg,perodua_axia,perodua_axia,0.877,0.877,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0251.jpg,perodua_axia,perodua_axia,0.737,0.737,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0253.jpg,perodua_axia,perodua_axia,0.848,0.848,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0256.jpg,perodua_axia,perodua_axia,0.822,0.822,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0257.jpg,perodua_axia,perodua_axia,0.85,0.85,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0259.jpg,perodua_axia,perodua_axia,0.927,0.927,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0260.jpg,perodua_axia,perodua_axia,0.783,0.783,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0262.jpg,perodua_axia,perodua_axia,0.477,0.477,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0263.jpg,perodua_axia,perodua_axia,0.551,0.551,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0264.jpg,perodua_axia,perodua_axia,0.558,0.558,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0265.jpg,perodua_axia,perodua_axia,0.972,0.972,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0266.jpg,perodua_axia,perodua_axia,0.93,0.93,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0267.jpg,perodua_axia,perodua_axia,0.903,0.903,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0268.jpg,perodua_axia,perodua_axia,0.988,0.988,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0270.jpg,perodua_axia,perodua_axia,0.957,0.957,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0271.jpg,perodua_axia,perodua_axia,0.944,0.944,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0272.jpg,perodua_axia,perodua_axia,0.831,0.831,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0273.jpg,perodua_axia,perodua_axia,0.807,0.807,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0274.jpg,perodua_axia,perodua_axia,0.822,0.822,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0276.jpg,perodua_axia,perodua_axia,0.973,0.973,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0277.jpg,perodua_axia,perodua_axia,0.979,0.979,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0278.jpg,perodua_axia,perodua_axia,0.958,0.958,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0279.jpg,perodua_axia,perodua_axia,0.972,0.972,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0280.jpg,perodua_axia,perodua_axia,0.936,0.936,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0281.jpg,perodua_axia,perodua_axia,0.94,0.94,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0282.jpg,perodua_axia,perodua_axia,0.96,0.96,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0283.jpg,perodua_axia,perodua_axia,0.942,0.942,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0284.jpg,perodua_axia,perodua_axia,0.962,0.962,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0285.jpg,perodua_axia,perodua_axia,0.988,0.988,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0287.jpg,perodua_axia,perodua_axia,0.987,0.987,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0288.jpg,perodua_axia,perodua_axia,0.893,0.893,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0289.jpg,perodua_axia,perodua_axia,0.953,0.953,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0291.jpg,perodua_axia,perodua_axia,0.527,0.527,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0292.jpg,perodua_axia,perodua_bezza,0.464,0.429,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0293.jpg,perodua_axia,perodua_axia,0.65,0.65,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0294.jpg,perodua_axia,perodua_axia,0.809,0.809,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0296.jpg,perodua_axia,perodua_axia,0.863,0.863,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0297.jpg,perodua_axia,perodua_axia,0.887,0.887,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_car-model-gbo55__perodua-axia_0298.jpg,perodua_axia,perodua_axia,0.913,0.913,Roboflow Universe: car-model-gbo55/perodua-axia
+perodua_axia/rf_axia-detection__perodua-axia-detection_0000.jpg,perodua_axia,perodua_axia,0.989,0.989,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0001.jpg,perodua_axia,perodua_axia,0.975,0.975,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0002.jpg,perodua_axia,perodua_axia,0.98,0.98,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0003.jpg,perodua_axia,perodua_axia,0.786,0.786,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0004.jpg,perodua_axia,perodua_axia,0.957,0.957,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0005.jpg,perodua_axia,perodua_axia,0.983,0.983,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0006.jpg,perodua_axia,perodua_axia,0.89,0.89,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0008.jpg,perodua_axia,perodua_axia,0.918,0.918,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0009.jpg,perodua_axia,perodua_bezza,0.481,0.43,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0010.jpg,perodua_axia,perodua_axia,0.981,0.981,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0011.jpg,perodua_axia,perodua_axia,0.963,0.963,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0012.jpg,perodua_axia,perodua_axia,0.982,0.982,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0013.jpg,perodua_axia,perodua_axia,0.964,0.964,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0014.jpg,perodua_axia,perodua_axia,0.975,0.975,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0015.jpg,perodua_axia,perodua_bezza,0.553,0.396,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0016.jpg,perodua_axia,perodua_axia,0.994,0.994,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0017.jpg,perodua_axia,perodua_axia,0.676,0.676,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0018.jpg,perodua_axia,perodua_axia,0.442,0.442,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0019.jpg,perodua_axia,perodua_axia,0.815,0.815,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0020.jpg,perodua_axia,perodua_axia,0.911,0.911,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0021.jpg,perodua_axia,perodua_axia,0.838,0.838,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0022.jpg,perodua_axia,perodua_axia,0.977,0.977,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0023.jpg,perodua_axia,perodua_axia,0.868,0.868,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0024.jpg,perodua_axia,perodua_axia,0.518,0.518,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0025.jpg,perodua_axia,perodua_axia,0.664,0.664,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0026.jpg,perodua_axia,perodua_axia,0.811,0.811,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0027.jpg,perodua_axia,perodua_axia,0.944,0.944,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0028.jpg,perodua_axia,perodua_axia,0.873,0.873,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0029.jpg,perodua_axia,perodua_axia,0.637,0.637,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0030.jpg,perodua_axia,perodua_axia,0.793,0.793,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0031.jpg,perodua_axia,perodua_axia,0.982,0.982,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0032.jpg,perodua_axia,perodua_axia,0.941,0.941,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0033.jpg,perodua_axia,perodua_axia,0.988,0.988,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0034.jpg,perodua_axia,perodua_axia,0.787,0.787,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0035.jpg,perodua_axia,perodua_axia,0.943,0.943,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0036.jpg,perodua_axia,perodua_axia,0.867,0.867,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0037.jpg,perodua_axia,perodua_axia,0.702,0.702,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0038.jpg,perodua_axia,perodua_axia,0.718,0.718,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0039.jpg,perodua_axia,perodua_axia,0.876,0.876,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0040.jpg,perodua_axia,perodua_axia,0.458,0.458,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0043.jpg,perodua_axia,perodua_axia,0.822,0.822,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0047.jpg,perodua_axia,perodua_axia,0.964,0.964,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0058.jpg,perodua_axia,perodua_axia,0.98,0.98,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0063.jpg,perodua_axia,perodua_axia,0.986,0.986,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0066.jpg,perodua_axia,perodua_axia,0.972,0.972,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0069.jpg,perodua_axia,perodua_axia,0.985,0.985,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0070.jpg,perodua_axia,perodua_axia,0.981,0.981,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0072.jpg,perodua_axia,perodua_axia,0.978,0.978,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0080.jpg,perodua_axia,perodua_axia,0.947,0.947,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0081.jpg,perodua_axia,perodua_axia,0.979,0.979,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0084.jpg,perodua_axia,perodua_axia,0.984,0.984,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0089.jpg,perodua_axia,perodua_axia,0.898,0.898,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0090.jpg,perodua_axia,perodua_axia,0.942,0.942,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0092.jpg,perodua_axia,perodua_axia,0.944,0.944,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0093.jpg,perodua_axia,perodua_axia,0.944,0.944,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0094.jpg,perodua_axia,perodua_axia,0.954,0.954,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0097.jpg,perodua_axia,perodua_axia,0.833,0.833,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0108.jpg,perodua_axia,perodua_axia,0.805,0.805,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0113.jpg,perodua_axia,perodua_axia,0.941,0.941,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0115.jpg,perodua_axia,perodua_axia,0.92,0.92,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0116.jpg,perodua_axia,perodua_axia,0.829,0.829,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0119.jpg,perodua_axia,perodua_axia,0.988,0.988,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0120.jpg,perodua_axia,perodua_axia,0.98,0.98,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0126.jpg,perodua_axia,perodua_axia,0.995,0.995,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0130.jpg,perodua_axia,perodua_axia,0.98,0.98,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0140.jpg,perodua_axia,perodua_axia,0.988,0.988,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0142.jpg,perodua_axia,perodua_axia,0.98,0.98,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0144.jpg,perodua_axia,perodua_axia,0.884,0.884,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0154.jpg,perodua_axia,perodua_axia,0.97,0.97,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0155.jpg,perodua_axia,perodua_axia,0.981,0.981,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0162.jpg,perodua_axia,perodua_axia,0.984,0.984,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0163.jpg,perodua_axia,perodua_axia,0.971,0.971,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0164.jpg,perodua_axia,perodua_axia,0.986,0.986,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0165.jpg,perodua_axia,perodua_axia,0.973,0.973,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0166.jpg,perodua_axia,perodua_axia,0.945,0.945,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0169.jpg,perodua_axia,perodua_axia,0.977,0.977,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0170.jpg,perodua_axia,perodua_axia,0.973,0.973,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0177.jpg,perodua_axia,perodua_axia,0.569,0.569,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0180.jpg,perodua_axia,perodua_axia,0.903,0.903,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0181.jpg,perodua_axia,perodua_axia,0.771,0.771,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0182.jpg,perodua_axia,perodua_axia,0.846,0.846,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0185.jpg,perodua_axia,perodua_axia,0.913,0.913,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0186.jpg,perodua_axia,perodua_axia,0.944,0.944,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0187.jpg,perodua_axia,perodua_axia,0.798,0.798,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0194.jpg,perodua_axia,perodua_axia,0.982,0.982,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0196.jpg,perodua_axia,perodua_axia,0.942,0.942,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0206.jpg,perodua_axia,perodua_axia,0.879,0.879,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0210.jpg,perodua_axia,perodua_axia,0.933,0.933,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0219.jpg,perodua_axia,perodua_axia,0.954,0.954,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0222.jpg,perodua_axia,perodua_axia,0.934,0.934,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0228.jpg,perodua_axia,perodua_axia,0.566,0.566,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0231.jpg,perodua_axia,perodua_axia,0.979,0.979,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0232.jpg,perodua_axia,perodua_axia,0.978,0.978,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0233.jpg,perodua_axia,perodua_axia,0.735,0.735,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0234.jpg,perodua_axia,perodua_axia,0.682,0.682,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0242.jpg,perodua_axia,perodua_axia,0.98,0.98,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0245.jpg,perodua_axia,perodua_axia,0.572,0.572,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0251.jpg,perodua_axia,perodua_axia,0.96,0.96,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0253.jpg,perodua_axia,perodua_axia,0.927,0.927,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0264.jpg,perodua_axia,perodua_axia,0.959,0.959,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0265.jpg,perodua_axia,perodua_axia,0.981,0.981,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0273.jpg,perodua_axia,perodua_axia,0.961,0.961,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0276.jpg,perodua_axia,perodua_axia,0.945,0.945,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0277.jpg,perodua_axia,perodua_axia,0.854,0.854,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0278.jpg,perodua_axia,perodua_axia,0.983,0.983,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0284.jpg,perodua_axia,perodua_axia,0.945,0.945,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0296.jpg,perodua_axia,perodua_axia,0.675,0.675,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0298.jpg,perodua_axia,perodua_axia,0.771,0.771,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_axia/rf_axia-detection__perodua-axia-detection_0299.jpg,perodua_axia,perodua_axia,0.899,0.899,Roboflow Universe: axia-detection/perodua-axia-detection
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0000.jpg,perodua_myvi,perodua_bezza,0.594,0.096,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0001.jpg,perodua_myvi,perodua_bezza,0.528,0.213,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0002.jpg,perodua_myvi,perodua_axia,0.413,0.123,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0003.jpg,perodua_myvi,perodua_axia,0.565,0.033,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0004.jpg,perodua_myvi,perodua_bezza,0.722,0.039,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0005.jpg,perodua_myvi,perodua_bezza,0.422,0.296,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0006.jpg,perodua_myvi,perodua_axia,0.762,0.115,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0007.jpg,perodua_myvi,perodua_axia,0.419,0.095,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0008.jpg,perodua_myvi,perodua_bezza,0.613,0.098,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0009.jpg,perodua_myvi,perodua_axia,0.432,0.046,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0010.jpg,perodua_myvi,perodua_axia,0.745,0.022,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0011.jpg,perodua_myvi,perodua_bezza,0.42,0.07,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0012.jpg,perodua_myvi,perodua_bezza,0.573,0.03,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0013.jpg,perodua_myvi,perodua_axia,0.389,0.212,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0014.jpg,perodua_myvi,perodua_axia,0.62,0.061,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0015.jpg,perodua_myvi,perodua_axia,0.749,0.054,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0016.jpg,perodua_myvi,perodua_bezza,0.655,0.157,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0017.jpg,perodua_myvi,perodua_bezza,0.704,0.079,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0018.jpg,perodua_myvi,perodua_bezza,0.672,0.07,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0019.jpg,perodua_myvi,perodua_axia,0.58,0.028,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0020.jpg,perodua_myvi,perodua_axia,0.676,0.036,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0021.jpg,perodua_myvi,perodua_axia,0.539,0.068,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0022.jpg,perodua_myvi,perodua_bezza,0.477,0.182,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0023.jpg,perodua_myvi,perodua_bezza,0.536,0.033,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0024.jpg,perodua_myvi,perodua_bezza,0.591,0.097,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0025.jpg,perodua_myvi,perodua_axia,0.48,0.104,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0026.jpg,perodua_myvi,perodua_axia,0.313,0.24,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0027.jpg,perodua_myvi,perodua_axia,0.478,0.133,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0028.jpg,perodua_myvi,perodua_axia,0.617,0.034,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0029.jpg,perodua_myvi,perodua_axia,0.479,0.124,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0030.jpg,perodua_myvi,perodua_axia,0.464,0.097,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0031.jpg,perodua_myvi,perodua_bezza,0.51,0.012,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0032.jpg,perodua_myvi,perodua_bezza,0.833,0.03,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0033.jpg,perodua_myvi,perodua_bezza,0.67,0.102,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0034.jpg,perodua_myvi,perodua_bezza,0.48,0.086,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0035.jpg,perodua_myvi,perodua_bezza,0.656,0.042,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0036.jpg,perodua_myvi,perodua_bezza,0.432,0.122,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0037.jpg,perodua_myvi,perodua_myvi,0.345,0.345,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0038.jpg,perodua_myvi,perodua_axia,0.475,0.056,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0039.jpg,perodua_myvi,perodua_axia,0.512,0.116,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0040.jpg,perodua_myvi,perodua_myvi,0.369,0.369,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0041.jpg,perodua_myvi,perodua_axia,0.514,0.18,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0042.jpg,perodua_myvi,proton_iriz,0.239,0.155,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0043.jpg,perodua_myvi,perodua_axia,0.551,0.129,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0044.jpg,perodua_myvi,perodua_bezza,0.593,0.123,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0045.jpg,perodua_myvi,proton_iriz,0.473,0.214,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0046.jpg,perodua_myvi,perodua_axia,0.423,0.154,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0047.jpg,perodua_myvi,perodua_bezza,0.429,0.075,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0048.jpg,perodua_myvi,proton_iriz,0.311,0.061,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0049.jpg,perodua_myvi,perodua_axia,0.285,0.205,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0050.jpg,perodua_myvi,proton_persona,0.645,0.039,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0051.jpg,perodua_myvi,proton_saga,0.374,0.042,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0052.jpg,perodua_myvi,perodua_axia,0.408,0.132,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0053.jpg,perodua_myvi,perodua_bezza,0.341,0.181,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0054.jpg,perodua_myvi,perodua_axia,0.676,0.025,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0055.jpg,perodua_myvi,perodua_bezza,0.579,0.238,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0056.jpg,perodua_myvi,perodua_axia,0.474,0.071,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0057.jpg,perodua_myvi,perodua_bezza,0.76,0.059,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0058.jpg,perodua_myvi,perodua_bezza,0.891,0.016,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0059.jpg,perodua_myvi,perodua_myvi,0.347,0.347,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0060.jpg,perodua_myvi,perodua_axia,0.371,0.266,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0061.jpg,perodua_myvi,perodua_axia,0.512,0.121,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0062.jpg,perodua_myvi,perodua_axia,0.371,0.178,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0063.jpg,perodua_myvi,perodua_myvi,0.263,0.263,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0064.jpg,perodua_myvi,perodua_axia,0.461,0.102,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0065.jpg,perodua_myvi,perodua_bezza,0.651,0.032,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0066.jpg,perodua_myvi,perodua_bezza,0.531,0.125,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0067.jpg,perodua_myvi,perodua_bezza,0.598,0.15,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0068.jpg,perodua_myvi,perodua_myvi,0.339,0.339,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0069.jpg,perodua_myvi,perodua_axia,0.578,0.24,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0070.jpg,perodua_myvi,perodua_bezza,0.274,0.234,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0071.jpg,perodua_myvi,perodua_bezza,0.548,0.057,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0072.jpg,perodua_myvi,perodua_bezza,0.585,0.041,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0073.jpg,perodua_myvi,perodua_axia,0.561,0.066,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0074.jpg,perodua_myvi,perodua_axia,0.564,0.063,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0075.jpg,perodua_myvi,perodua_axia,0.499,0.062,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0076.jpg,perodua_myvi,perodua_bezza,0.607,0.169,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0077.jpg,perodua_myvi,perodua_axia,0.599,0.121,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0078.jpg,perodua_myvi,perodua_axia,0.543,0.157,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0079.jpg,perodua_myvi,perodua_axia,0.425,0.242,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0080.jpg,perodua_myvi,perodua_axia,0.76,0.145,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0081.jpg,perodua_myvi,perodua_axia,0.516,0.036,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0082.jpg,perodua_myvi,perodua_axia,0.585,0.085,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0083.jpg,perodua_myvi,perodua_axia,0.451,0.127,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0084.jpg,perodua_myvi,perodua_axia,0.492,0.04,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0085.jpg,perodua_myvi,perodua_axia,0.608,0.146,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0086.jpg,perodua_myvi,perodua_axia,0.439,0.109,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0087.jpg,perodua_myvi,perodua_bezza,0.491,0.059,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0088.jpg,perodua_myvi,perodua_axia,0.459,0.05,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0089.jpg,perodua_myvi,perodua_axia,0.802,0.022,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0090.jpg,perodua_myvi,perodua_axia,0.488,0.075,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0091.jpg,perodua_myvi,perodua_bezza,0.819,0.013,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0092.jpg,perodua_myvi,perodua_axia,0.495,0.09,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0093.jpg,perodua_myvi,perodua_axia,0.47,0.108,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0094.jpg,perodua_myvi,perodua_bezza,0.84,0.069,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0095.jpg,perodua_myvi,perodua_axia,0.518,0.042,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0096.jpg,perodua_myvi,perodua_bezza,0.762,0.045,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0097.jpg,perodua_myvi,perodua_bezza,0.86,0.016,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0098.jpg,perodua_myvi,perodua_bezza,0.829,0.039,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0099.jpg,perodua_myvi,perodua_axia,0.576,0.086,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0100.jpg,perodua_myvi,perodua_axia,0.436,0.158,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0101.jpg,perodua_myvi,perodua_axia,0.527,0.18,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0102.jpg,perodua_myvi,perodua_axia,0.778,0.067,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0103.jpg,perodua_myvi,perodua_axia,0.429,0.09,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0104.jpg,perodua_myvi,perodua_axia,0.653,0.138,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0105.jpg,perodua_myvi,perodua_bezza,0.499,0.185,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0106.jpg,perodua_myvi,perodua_bezza,0.6,0.174,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0107.jpg,perodua_myvi,perodua_bezza,0.601,0.049,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0108.jpg,perodua_myvi,perodua_axia,0.312,0.29,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0109.jpg,perodua_myvi,perodua_axia,0.494,0.021,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0110.jpg,perodua_myvi,perodua_bezza,0.472,0.047,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0111.jpg,perodua_myvi,perodua_bezza,0.678,0.014,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0112.jpg,perodua_myvi,perodua_axia,0.812,0.041,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0113.jpg,perodua_myvi,perodua_bezza,0.56,0.102,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0114.jpg,perodua_myvi,perodua_bezza,0.59,0.168,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0115.jpg,perodua_myvi,perodua_axia,0.448,0.087,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0116.jpg,perodua_myvi,perodua_bezza,0.466,0.119,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0117.jpg,perodua_myvi,perodua_axia,0.46,0.091,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0118.jpg,perodua_myvi,perodua_bezza,0.51,0.262,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0119.jpg,perodua_myvi,perodua_bezza,0.628,0.014,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0120.jpg,perodua_myvi,perodua_axia,0.621,0.053,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0121.jpg,perodua_myvi,perodua_axia,0.812,0.077,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0122.jpg,perodua_myvi,perodua_axia,0.4,0.27,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0123.jpg,perodua_myvi,perodua_bezza,0.368,0.199,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0124.jpg,perodua_myvi,perodua_bezza,0.537,0.124,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0125.jpg,perodua_myvi,perodua_myvi,0.493,0.493,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0126.jpg,perodua_myvi,perodua_bezza,0.519,0.079,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0127.jpg,perodua_myvi,perodua_axia,0.386,0.379,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0128.jpg,perodua_myvi,perodua_axia,0.473,0.061,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0129.jpg,perodua_myvi,perodua_axia,0.493,0.095,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0130.jpg,perodua_myvi,perodua_axia,0.782,0.087,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0131.jpg,perodua_myvi,perodua_bezza,0.644,0.119,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0132.jpg,perodua_myvi,perodua_bezza,0.617,0.149,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0133.jpg,perodua_myvi,perodua_myvi,0.53,0.53,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0134.jpg,perodua_myvi,perodua_bezza,0.662,0.061,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0135.jpg,perodua_myvi,perodua_myvi,0.463,0.463,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0136.jpg,perodua_myvi,perodua_axia,0.667,0.061,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0137.jpg,perodua_myvi,perodua_bezza,0.48,0.136,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0138.jpg,perodua_myvi,proton_persona,0.352,0.081,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0139.jpg,perodua_myvi,perodua_myvi,0.408,0.408,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0140.jpg,perodua_myvi,perodua_bezza,0.574,0.038,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0141.jpg,perodua_myvi,perodua_bezza,0.689,0.119,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0142.jpg,perodua_myvi,perodua_axia,0.517,0.121,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0144.jpg,perodua_myvi,perodua_bezza,0.689,0.037,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0145.jpg,perodua_myvi,perodua_bezza,0.55,0.287,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0146.jpg,perodua_myvi,perodua_axia,0.419,0.115,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0147.jpg,perodua_myvi,perodua_myvi,0.457,0.457,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0148.jpg,perodua_myvi,perodua_bezza,0.612,0.066,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0149.jpg,perodua_myvi,perodua_axia,0.41,0.196,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0150.jpg,perodua_myvi,perodua_axia,0.452,0.025,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0151.jpg,perodua_myvi,perodua_bezza,0.458,0.275,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0152.jpg,perodua_myvi,perodua_bezza,0.797,0.054,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0153.jpg,perodua_myvi,perodua_bezza,0.724,0.03,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0154.jpg,perodua_myvi,perodua_bezza,0.444,0.209,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0155.jpg,perodua_myvi,perodua_bezza,0.758,0.046,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0156.jpg,perodua_myvi,proton_persona,0.285,0.214,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0157.jpg,perodua_myvi,perodua_axia,0.484,0.094,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0158.jpg,perodua_myvi,perodua_myvi,0.393,0.393,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0159.jpg,perodua_myvi,perodua_myvi,0.441,0.441,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0160.jpg,perodua_myvi,perodua_axia,0.789,0.079,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0161.jpg,perodua_myvi,perodua_axia,0.658,0.033,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0162.jpg,perodua_myvi,perodua_axia,0.58,0.031,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0163.jpg,perodua_myvi,perodua_bezza,0.494,0.097,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0164.jpg,perodua_myvi,perodua_bezza,0.524,0.06,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0165.jpg,perodua_myvi,perodua_axia,0.733,0.064,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0166.jpg,perodua_myvi,perodua_bezza,0.471,0.121,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0167.jpg,perodua_myvi,perodua_myvi,0.39,0.39,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0168.jpg,perodua_myvi,proton_persona,0.442,0.103,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0169.jpg,perodua_myvi,perodua_axia,0.487,0.09,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0170.jpg,perodua_myvi,perodua_bezza,0.674,0.028,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0171.jpg,perodua_myvi,perodua_bezza,0.89,0.033,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0172.jpg,perodua_myvi,perodua_bezza,0.481,0.128,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0173.jpg,perodua_myvi,perodua_axia,0.419,0.095,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0174.jpg,perodua_myvi,perodua_bezza,0.469,0.128,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0175.jpg,perodua_myvi,perodua_bezza,0.387,0.191,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0176.jpg,perodua_myvi,perodua_axia,0.338,0.253,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0177.jpg,perodua_myvi,perodua_bezza,0.599,0.232,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0178.jpg,perodua_myvi,perodua_myvi,0.325,0.325,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_myvi/rf_trainlabelstxt__trainingmyvi_0179.jpg,perodua_myvi,perodua_axia,0.367,0.228,Roboflow Universe: trainlabelstxt/trainingmyvi
+perodua_bezza/rf_swinburne-crrcc__bezza_0000.jpg,perodua_bezza,perodua_bezza,0.347,0.347,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0001.jpg,perodua_bezza,perodua_bezza,0.625,0.625,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0002.jpg,perodua_bezza,perodua_bezza,0.684,0.684,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0003.jpg,perodua_bezza,perodua_bezza,0.483,0.483,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0004.jpg,perodua_bezza,perodua_myvi,0.35,0.341,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0005.jpg,perodua_bezza,perodua_bezza,0.594,0.594,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0006.jpg,perodua_bezza,perodua_axia,0.46,0.384,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0007.jpg,perodua_bezza,perodua_myvi,0.87,0.106,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0008.jpg,perodua_bezza,perodua_bezza,0.731,0.731,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0009.jpg,perodua_bezza,perodua_bezza,0.561,0.561,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0010.jpg,perodua_bezza,perodua_axia,0.648,0.187,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0011.jpg,perodua_bezza,perodua_bezza,0.376,0.376,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0012.jpg,perodua_bezza,perodua_myvi,0.355,0.266,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0013.jpg,perodua_bezza,perodua_bezza,0.463,0.463,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0014.jpg,perodua_bezza,perodua_myvi,0.564,0.085,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0015.jpg,perodua_bezza,perodua_axia,0.444,0.303,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0016.jpg,perodua_bezza,perodua_bezza,0.521,0.521,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0017.jpg,perodua_bezza,perodua_axia,0.652,0.146,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0018.jpg,perodua_bezza,perodua_myvi,0.342,0.33,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0019.jpg,perodua_bezza,perodua_bezza,0.508,0.508,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0020.jpg,perodua_bezza,perodua_bezza,0.927,0.927,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0021.jpg,perodua_bezza,perodua_bezza,0.49,0.49,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0022.jpg,perodua_bezza,perodua_myvi,0.442,0.387,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0023.jpg,perodua_bezza,perodua_bezza,0.543,0.543,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0024.jpg,perodua_bezza,perodua_myvi,0.451,0.31,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0025.jpg,perodua_bezza,perodua_myvi,0.455,0.433,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0026.jpg,perodua_bezza,perodua_bezza,0.579,0.579,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0028.jpg,perodua_bezza,perodua_bezza,0.876,0.876,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0029.jpg,perodua_bezza,perodua_myvi,0.695,0.055,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0030.jpg,perodua_bezza,perodua_bezza,0.576,0.576,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0031.jpg,perodua_bezza,perodua_bezza,0.7,0.7,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0032.jpg,perodua_bezza,perodua_axia,0.384,0.209,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0033.jpg,perodua_bezza,perodua_myvi,0.482,0.266,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0034.jpg,perodua_bezza,perodua_bezza,0.633,0.633,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0035.jpg,perodua_bezza,perodua_bezza,0.604,0.604,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0036.jpg,perodua_bezza,perodua_axia,0.863,0.073,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0037.jpg,perodua_bezza,perodua_axia,0.593,0.219,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0038.jpg,perodua_bezza,perodua_bezza,0.541,0.541,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0039.jpg,perodua_bezza,perodua_myvi,0.534,0.252,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0040.jpg,perodua_bezza,perodua_bezza,0.415,0.415,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0041.jpg,perodua_bezza,perodua_bezza,0.574,0.574,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0042.jpg,perodua_bezza,perodua_bezza,0.525,0.525,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0043.jpg,perodua_bezza,proton_saga,0.301,0.179,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0044.jpg,perodua_bezza,perodua_bezza,0.572,0.572,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0045.jpg,perodua_bezza,perodua_bezza,0.414,0.414,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0046.jpg,perodua_bezza,perodua_bezza,0.684,0.684,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0047.jpg,perodua_bezza,perodua_bezza,0.452,0.452,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0048.jpg,perodua_bezza,perodua_bezza,0.493,0.493,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0049.jpg,perodua_bezza,perodua_bezza,0.469,0.469,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0050.jpg,perodua_bezza,perodua_bezza,0.496,0.496,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0051.jpg,perodua_bezza,perodua_bezza,0.84,0.84,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0052.jpg,perodua_bezza,perodua_bezza,0.509,0.509,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0053.jpg,perodua_bezza,perodua_myvi,0.63,0.227,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0054.jpg,perodua_bezza,perodua_axia,0.515,0.265,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0055.jpg,perodua_bezza,perodua_bezza,0.753,0.753,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0056.jpg,perodua_bezza,perodua_bezza,0.593,0.593,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0057.jpg,perodua_bezza,perodua_axia,0.389,0.324,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0058.jpg,perodua_bezza,perodua_bezza,0.465,0.465,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0059.jpg,perodua_bezza,perodua_bezza,0.532,0.532,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0060.jpg,perodua_bezza,perodua_bezza,0.498,0.498,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0061.jpg,perodua_bezza,perodua_myvi,0.382,0.249,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0062.jpg,perodua_bezza,perodua_axia,0.785,0.112,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0063.jpg,perodua_bezza,perodua_bezza,0.464,0.464,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0064.jpg,perodua_bezza,perodua_axia,0.894,0.029,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0065.jpg,perodua_bezza,perodua_bezza,0.857,0.857,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0066.jpg,perodua_bezza,perodua_bezza,0.506,0.506,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0067.jpg,perodua_bezza,perodua_bezza,0.729,0.729,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0068.jpg,perodua_bezza,perodua_axia,0.356,0.291,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0069.jpg,perodua_bezza,perodua_bezza,0.679,0.679,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0071.jpg,perodua_bezza,perodua_bezza,0.702,0.702,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0072.jpg,perodua_bezza,perodua_myvi,0.806,0.104,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0073.jpg,perodua_bezza,perodua_bezza,0.826,0.826,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0074.jpg,perodua_bezza,perodua_bezza,0.722,0.722,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0075.jpg,perodua_bezza,perodua_myvi,0.451,0.399,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0076.jpg,perodua_bezza,perodua_bezza,0.477,0.477,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0077.jpg,perodua_bezza,perodua_myvi,0.546,0.365,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0078.jpg,perodua_bezza,perodua_myvi,0.617,0.321,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0079.jpg,perodua_bezza,perodua_bezza,0.44,0.44,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0080.jpg,perodua_bezza,perodua_bezza,0.363,0.363,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0081.jpg,perodua_bezza,perodua_myvi,0.424,0.307,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0082.jpg,perodua_bezza,perodua_axia,0.481,0.255,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0083.jpg,perodua_bezza,perodua_bezza,0.843,0.843,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0084.jpg,perodua_bezza,perodua_bezza,0.829,0.829,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0085.jpg,perodua_bezza,perodua_bezza,0.527,0.527,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0086.jpg,perodua_bezza,perodua_axia,0.295,0.219,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0087.jpg,perodua_bezza,perodua_bezza,0.596,0.596,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0088.jpg,perodua_bezza,perodua_bezza,0.688,0.688,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0089.jpg,perodua_bezza,perodua_bezza,0.443,0.443,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0090.jpg,perodua_bezza,perodua_axia,0.456,0.427,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0091.jpg,perodua_bezza,perodua_bezza,0.757,0.757,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0092.jpg,perodua_bezza,perodua_axia,0.568,0.098,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0093.jpg,perodua_bezza,perodua_bezza,0.83,0.83,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0094.jpg,perodua_bezza,perodua_axia,0.451,0.345,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0095.jpg,perodua_bezza,perodua_bezza,0.567,0.567,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0096.jpg,perodua_bezza,perodua_bezza,0.839,0.839,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0097.jpg,perodua_bezza,perodua_bezza,0.483,0.483,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0098.jpg,perodua_bezza,perodua_myvi,0.416,0.338,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0099.jpg,perodua_bezza,perodua_axia,0.66,0.21,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0100.jpg,perodua_bezza,perodua_bezza,0.583,0.583,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0101.jpg,perodua_bezza,perodua_axia,0.593,0.276,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0102.jpg,perodua_bezza,perodua_myvi,0.341,0.291,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0103.jpg,perodua_bezza,perodua_bezza,0.805,0.805,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0104.jpg,perodua_bezza,perodua_myvi,0.486,0.482,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0105.jpg,perodua_bezza,perodua_axia,0.571,0.303,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0106.jpg,perodua_bezza,perodua_bezza,0.551,0.551,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0107.jpg,perodua_bezza,perodua_bezza,0.535,0.535,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0108.jpg,perodua_bezza,perodua_axia,0.892,0.012,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0109.jpg,perodua_bezza,perodua_bezza,0.721,0.721,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0110.jpg,perodua_bezza,perodua_bezza,0.656,0.656,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0111.jpg,perodua_bezza,perodua_myvi,0.413,0.408,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0112.jpg,perodua_bezza,perodua_axia,0.523,0.276,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0113.jpg,perodua_bezza,perodua_axia,0.386,0.234,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0114.jpg,perodua_bezza,perodua_bezza,0.646,0.646,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0115.jpg,perodua_bezza,perodua_axia,0.375,0.352,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0116.jpg,perodua_bezza,perodua_axia,0.609,0.245,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0117.jpg,perodua_bezza,perodua_bezza,0.466,0.466,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0118.jpg,perodua_bezza,perodua_bezza,0.912,0.912,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0119.jpg,perodua_bezza,perodua_axia,0.56,0.3,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0120.jpg,perodua_bezza,perodua_myvi,0.437,0.242,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0121.jpg,perodua_bezza,perodua_bezza,0.913,0.913,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0122.jpg,perodua_bezza,perodua_bezza,0.573,0.573,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0123.jpg,perodua_bezza,perodua_bezza,0.504,0.504,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0124.jpg,perodua_bezza,perodua_axia,0.454,0.348,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0125.jpg,perodua_bezza,perodua_bezza,0.67,0.67,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0126.jpg,perodua_bezza,perodua_axia,0.518,0.387,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0127.jpg,perodua_bezza,perodua_bezza,0.489,0.489,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0128.jpg,perodua_bezza,perodua_axia,0.586,0.116,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0129.jpg,perodua_bezza,perodua_bezza,0.751,0.751,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0130.jpg,perodua_bezza,perodua_myvi,0.431,0.366,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0131.jpg,perodua_bezza,perodua_myvi,0.652,0.181,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0132.jpg,perodua_bezza,perodua_myvi,0.351,0.308,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0133.jpg,perodua_bezza,perodua_bezza,0.764,0.764,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0134.jpg,perodua_bezza,perodua_axia,0.454,0.42,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0135.jpg,perodua_bezza,perodua_myvi,0.458,0.336,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0136.jpg,perodua_bezza,perodua_bezza,0.831,0.831,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0137.jpg,perodua_bezza,perodua_bezza,0.459,0.459,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0138.jpg,perodua_bezza,perodua_bezza,0.554,0.554,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0139.jpg,perodua_bezza,perodua_myvi,0.414,0.371,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0140.jpg,perodua_bezza,perodua_bezza,0.444,0.444,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0141.jpg,perodua_bezza,perodua_myvi,0.435,0.378,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0142.jpg,perodua_bezza,perodua_bezza,0.871,0.871,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0143.jpg,perodua_bezza,perodua_bezza,0.456,0.456,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0144.jpg,perodua_bezza,perodua_bezza,0.486,0.486,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0145.jpg,perodua_bezza,perodua_bezza,0.635,0.635,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0146.jpg,perodua_bezza,perodua_myvi,0.528,0.376,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0147.jpg,perodua_bezza,perodua_bezza,0.436,0.436,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0148.jpg,perodua_bezza,perodua_bezza,0.467,0.467,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0149.jpg,perodua_bezza,perodua_myvi,0.386,0.265,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0150.jpg,perodua_bezza,perodua_bezza,0.372,0.372,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0151.jpg,perodua_bezza,perodua_axia,0.543,0.276,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0152.jpg,perodua_bezza,perodua_axia,0.455,0.113,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0153.jpg,perodua_bezza,perodua_myvi,0.453,0.203,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0154.jpg,perodua_bezza,perodua_myvi,0.684,0.161,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0155.jpg,perodua_bezza,perodua_bezza,0.577,0.577,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0156.jpg,perodua_bezza,perodua_bezza,0.607,0.607,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0157.jpg,perodua_bezza,perodua_axia,0.734,0.163,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0158.jpg,perodua_bezza,perodua_bezza,0.655,0.655,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0159.jpg,perodua_bezza,perodua_bezza,0.373,0.373,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0160.jpg,perodua_bezza,perodua_myvi,0.618,0.337,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0161.jpg,perodua_bezza,perodua_myvi,0.448,0.388,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0162.jpg,perodua_bezza,perodua_axia,0.752,0.142,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0163.jpg,perodua_bezza,perodua_axia,0.494,0.351,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0164.jpg,perodua_bezza,perodua_myvi,0.531,0.3,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0165.jpg,perodua_bezza,perodua_bezza,0.536,0.536,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0166.jpg,perodua_bezza,perodua_myvi,0.431,0.292,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0167.jpg,perodua_bezza,perodua_bezza,0.39,0.39,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0168.jpg,perodua_bezza,perodua_axia,0.655,0.163,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0169.jpg,perodua_bezza,perodua_axia,0.572,0.328,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0170.jpg,perodua_bezza,perodua_bezza,0.403,0.403,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0171.jpg,perodua_bezza,perodua_axia,0.53,0.327,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0172.jpg,perodua_bezza,perodua_bezza,0.523,0.523,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0173.jpg,perodua_bezza,perodua_axia,0.806,0.119,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0174.jpg,perodua_bezza,perodua_axia,0.693,0.162,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0175.jpg,perodua_bezza,perodua_axia,0.535,0.287,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0176.jpg,perodua_bezza,perodua_axia,0.688,0.118,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0177.jpg,perodua_bezza,perodua_bezza,0.395,0.395,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0178.jpg,perodua_bezza,perodua_bezza,0.518,0.518,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0179.jpg,perodua_bezza,perodua_axia,0.483,0.221,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0180.jpg,perodua_bezza,perodua_axia,0.621,0.144,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0181.jpg,perodua_bezza,perodua_axia,0.783,0.052,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0182.jpg,perodua_bezza,perodua_bezza,0.827,0.827,Roboflow Universe: swinburne-crrcc/bezza
+perodua_bezza/rf_swinburne-crrcc__bezza_0183.jpg,perodua_bezza,perodua_myvi,0.431,0.362,Roboflow Universe: swinburne-crrcc/bezza

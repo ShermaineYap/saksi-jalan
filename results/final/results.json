@@ -1,0 +1,282 @@
+{
+  "n_photos_dev": 1301,
+  "n_groups_dev": 61,
+  "n_external_test": 30,
+  "per_class_counts": {
+    "Perodua Axia": 397,
+    "Perodua Bezza": 231,
+    "Perodua Myvi": 321,
+    "Proton Iriz": 37,
+    "Proton Persona": 118,
+    "Proton Saga": 197
+  },
+  "cv_clean": {
+    "zero_shot_top1": 0.5172943889315911,
+    "zero_shot_top3": 0.9500384319754035,
+    "probe_top1": 0.744043043812452,
+    "probe_top3": 0.9531129900076863
+  },
+  "cv_per_class_probe": {
+    "Perodua Axia": [
+      0.919,
+      397
+    ],
+    "Perodua Bezza": [
+      0.623,
+      231
+    ],
+    "Perodua Myvi": [
+      0.43,
+      321
+    ],
+    "Proton Iriz": [
+      0.892,
+      37
+    ],
+    "Proton Persona": [
+      0.89,
+      118
+    ],
+    "Proton Saga": [
+      0.929,
+      197
+    ]
+  },
+  "cv_per_class_zero_shot": {
+    "Perodua Axia": [
+      0.103,
+      397
+    ],
+    "Perodua Bezza": [
+      0.736,
+      231
+    ],
+    "Perodua Myvi": [
+      0.66,
+      321
+    ],
+    "Proton Iriz": [
+      0.27,
+      37
+    ],
+    "Proton Persona": [
+      0.449,
+      118
+    ],
+    "Proton Saga": [
+      0.949,
+      197
+    ]
+  },
+  "cv_confusion_probe": [
+    [
+      365,
+      10,
+      22,
+      0,
+      0,
+      0
+    ],
+    [
+      45,
+      144,
+      39,
+      0,
+      2,
+      1
+    ],
+    [
+      84,
+      74,
+      138,
+      14,
+      9,
+      2
+    ],
+    [
+      0,
+      0,
+      1,
+      33,
+      3,
+      0
+    ],
+    [
+      0,
+      2,
+      4,
+      6,
+      105,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      14,
+      183
+    ]
+  ],
+  "cv_degraded": {
+    "blur_r4": {
+      "zero_shot_top1": 0.4411990776325903,
+      "probe_top1": 0.6740968485780169,
+      "probe_top3": 0.9385088393543428
+    },
+    "dark_0.35": {
+      "zero_shot_top1": 0.5180630284396618,
+      "probe_top1": 0.7624903920061491,
+      "probe_top3": 0.9508070714834742
+    },
+    "lowres_64px": {
+      "zero_shot_top1": 0.3850883935434281,
+      "probe_top1": 0.6887009992313605,
+      "probe_top3": 0.9223674096848578
+    },
+    "dashcam_combo": {
+      "zero_shot_top1": 0.4511913912375096,
+      "probe_top1": 0.6410453497309762,
+      "probe_top3": 0.9108378170637971
+    }
+  },
+  "cv_refusal_clean": [
+    {
+      "threshold": 0.0,
+      "coverage": 1.0,
+      "accuracy_when_answering": 0.744
+    },
+    {
+      "threshold": 0.4,
+      "coverage": 0.932,
+      "accuracy_when_answering": 0.767
+    },
+    {
+      "threshold": 0.5,
+      "coverage": 0.799,
+      "accuracy_when_answering": 0.831
+    },
+    {
+      "threshold": 0.6,
+      "coverage": 0.669,
+      "accuracy_when_answering": 0.885
+    },
+    {
+      "threshold": 0.7,
+      "coverage": 0.555,
+      "accuracy_when_answering": 0.936
+    },
+    {
+      "threshold": 0.8,
+      "coverage": 0.439,
+      "accuracy_when_answering": 0.965
+    },
+    {
+      "threshold": 0.9,
+      "coverage": 0.287,
+      "accuracy_when_answering": 0.992
+    }
+  ],
+  "cv_refusal_dashcam": [
+    {
+      "threshold": 0.0,
+      "coverage": 1.0,
+      "accuracy_when_answering": 0.641
+    },
+    {
+      "threshold": 0.4,
+      "coverage": 0.87,
+      "accuracy_when_answering": 0.7
+    },
+    {
+      "threshold": 0.5,
+      "coverage": 0.7,
+      "accuracy_when_answering": 0.762
+    },
+    {
+      "threshold": 0.6,
+      "coverage": 0.536,
+      "accuracy_when_answering": 0.832
+    },
+    {
+      "threshold": 0.7,
+      "coverage": 0.367,
+      "accuracy_when_answering": 0.916
+    },
+    {
+      "threshold": 0.8,
+      "coverage": 0.221,
+      "accuracy_when_answering": 0.969
+    },
+    {
+      "threshold": 0.9,
+      "coverage": 0.078,
+      "accuracy_when_answering": 0.99
+    }
+  ],
+  "backbone": "ViT-B-16-quickgelu/dfn2b",
+  "classes": [
+    "Perodua Axia",
+    "Perodua Bezza",
+    "Perodua Myvi",
+    "Proton Iriz",
+    "Proton Persona",
+    "Proton Saga"
+  ],
+  "external": {
+    "probe_top1": 1.0,
+    "probe_top3": 1.0,
+    "zero_shot_top1": 0.5666666666666667,
+    "per_class_probe": {
+      "Perodua Axia": [
+        1.0,
+        10
+      ],
+      "Perodua Bezza": [
+        1.0,
+        10
+      ],
+      "Perodua Myvi": [
+        1.0,
+        10
+      ]
+    },
+    "refusal": [
+      {
+        "threshold": 0.0,
+        "coverage": 1.0,
+        "accuracy_when_answering": 1.0
+      },
+      {
+        "threshold": 0.4,
+        "coverage": 0.967,
+        "accuracy_when_answering": 1.0
+      },
+      {
+        "threshold": 0.5,
+        "coverage": 0.967,
+        "accuracy_when_answering": 1.0
+      },
+      {
+        "threshold": 0.6,
+        "coverage": 0.9,
+        "accuracy_when_answering": 1.0
+      },
+      {
+        "threshold": 0.7,
+        "coverage": 0.8,
+        "accuracy_when_answering": 1.0
+      },
+      {
+        "threshold": 0.8,
+        "coverage": 0.733,
+        "accuracy_when_answering": 1.0
+      },
+      {
+        "threshold": 0.9,
+        "coverage": 0.4,
+        "accuracy_when_answering": 1.0
+      }
+    ]
+  }
+}
